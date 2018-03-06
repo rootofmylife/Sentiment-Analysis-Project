@@ -1,0 +1,6183 @@
+danh nhân	1	0
+danh tiếng	1	0
+nghệ thuật nhạc kịch	0	0
+sự nổi tiếng	1	1
+bất tận	0	0
+bệnh dịch	0	1
+bỏ cuộc	0	1
+bùng nổ	0	0
+cường điệu	1	0
+dơ	0	1
+giáo dục	1	0
+lãng mạng	1	0
+mơ mộng	1	0
+nghỉ hưu	0	0
+ngừng hoạt động	0	1
+nhơ	0	1
+nuôi nấng	1	0
+trộm	0	1
+ác nghiệt	0	1
+bão	0	1
+bất khuất	1	0
+bị đối xử tàn tệ	0	1
+bị lạm dụng	0	1
+bị ngược đãi	0	1
+buộc	0	0
+cao nhất	0	0
+cầu xin	0	0
+chém giết	0	1
+chênh lệch	0	0
+có tiền	1	0
+của cải	1	0
+cướp bóc	0	1
+cướp giật	0	1
+đám chìm	0	0
+đích đến	1	0
+diễu hành	0	0
+đổ máu	0	1
+dông tố	0	1
+duyệt binh	1	1
+ghê gớm	0	1
+gợi cảm	1	1
+ham muốn	1	1
+kết hôn	1	0
+khẩn cầu	1	0
+không chính đáng	0	1
+không hợp pháp	0	1
+không kiềm chế	1	1
+kích thích	1	0
+lãng trí	0	1
+lấy chồng	1	0
+lấy vợ	1	0
+lớn nhất	1	1
+mải mê	1	0
+nguyện cầu	1	0
+nhẫn tâm	0	1
+nhơ bẩn	0	1
+nhục dục	1	1
+phô trương	0	0
+tàn nhẫn	0	1
+thả lỏng	0	0
+thắng	1	0
+thanh Xuân	1	0
+thắt	1	1
+tiền bạc	1	0
+tiền mặt	1	0
+tốt nghiệp	1	0
+tra khảo	0	1
+tra tấn	0	1
+trốn tránh	0	1
+tuổi trẻ	1	0
+vô địch	1	0
+vô gia cư	0	1
+vô thể	0	0
+vụng trộm	0	1
+ầm ỹ	1	1
+ao ước	1	1
+bà đỡ	1	1
+bà mụ	1	1
+ban nhạc	0	0
+bất hợp pháp	0	1
+bất hợp tác	0	1
+bất lợi	0	1
+bất mãn	0	1
+bất tử	1	0
+bày tỏ	1	0
+bị biến dạng	0	1
+bị co giật	0	1
+bị co rút	0	1
+bị kích thích	0	0
+bị tàn phá	0	1
+bình minh	1	0
+bỏ đi	0	1
+bỏ rơi	0	1
+bổ sung	1	0
+bỏ trốn	0	1
+bồi thường	1	0
+bom	0	1
+bù lại	1	0
+ca ngợi	1	0
+cả tin	0	1
+ca tụng	1	0
+cầm tù	0	1
+cao đỉnh	1	0
+cao trào	1	0
+cay độc	0	1
+chê	0	1
+chen chúc	0	1
+chết	0	1
+chết chóc	0	1
+chết người	0	1
+chết tiệt	0	1
+chó cái	0	1
+chọc tức	1	1
+chống đối	0	1
+chống đối xã hội	0	1
+chu toàn	1	0
+chưa thực hiện	0	1
+có duyên	1	0
+có hại	0	1
+có triển vọng	1	0
+cổ vũ	1	0
+coi nhẹ	0	1
+cực điểm	1	0
+cúng tế	1	0
+cười thầm	1	0
+dã ngoại	1	0
+đẫm máu	0	1
+đáng chết treo	0	1
+đáng trách	0	1
+đáng treo cổ	0	1
+đắt	0	1
+đắt đỏ	0	1
+đắt giá	0	1
+đắt tiền	0	1
+đày	0	1
+đầy căm hờn	0	1
+đầy căm thù	0	1
+đầy hứa hẹn	1	0
+đầy máu	0	1
+dễ mắc lừa	0	1
+đền bù	1	0
+di sản	1	0
+đi theo	1	0
+địa chấn	0	1
+điên cuồng	0	1
+đỉnh cao	1	0
+độc ác	0	1
+độc lập	1	0
+đồi bại	0	1
+động đất	0	1
+đồng tình	1	0
+dữ dội	1	1
+gay gắt	0	1
+giả bộ	0	1
+gia tăng	1	0
+giam cầm	0	1
+giấu	0	1
+giấu giếm	0	1
+giết người	0	1
+giọng trầm bổng	1	0
+gò bó	0	1
+hài cốt	1	1
+hạn chế	0	1
+hận thù	0	1
+háo hức	1	0
+hậu quả	0	1
+hiến dâng	1	0
+hiu quạnh	0	1
+hòa hiệp	1	0
+hoàn thiện	1	0
+hoang vu	0	1
+hung bạo	0	1
+hung dữ	1	1
+hung hãn	0	1
+hung tợn	0	1
+huyền diệu	1	0
+huyên náo	1	1
+hy vọng	1	0
+kế nghiệp	1	0
+kế vị	1	0
+kết án	0	1
+khắc nghiệt	0	1
+khát khao	1	1
+khó khăn	0	1
+khố rách áo ôm	0	1
+khoan hồng	1	0
+khốc liệt	0	1
+không chắc	0	1
+không có tiền	0	1
+không được hợp tác	0	1
+không được phối hợp	0	1
+không hài lòng	0	1
+không kiên định	0	1
+không một xu dính túi	0	1
+không nhà không cửa	0	1
+không thể chữa được	0	1
+không tiền	0	1
+khuyến khích	1	0
+kín đáo	1	0
+kin khủng	0	1
+kinh khủng	0	1
+lạc quan	1	0
+lạm dụng	0	1
+làm ghê tởm	0	1
+làm kinh tởm	0	1
+làm nô lệ	0	1
+làm tởm	0	1
+lễ kỷ niệm	1	0
+lén lút	0	1
+lo ngại	0	1
+loét	0	1
+lời khen	1	0
+lòng tốt	1	0
+ma quỷ	0	1
+mắc	0	1
+mạnh dần	1	0
+mặt trời	1	0
+máu me	0	1
+máu me be bét	0	1
+mến yêu	1	0
+méo mó	0	1
+mối lo	0	1
+mong mỏi	1	1
+mong ước	1	0
+một thần	0	1
+mù hoàn toàn	0	1
+nắm lấy	1	0
+nan y	0	1
+náo nhiệt	1	1
+nghèo rớt mồng tơi	0	1
+người tình	1	0
+người yêu	1	0
+nhăn nhở	1	0
+nhọt	0	1
+như địa ngục	0	1
+nhục nhã	0	1
+nô dịch	0	1
+nữ thần báo tử	0	1
+nửa người	0	1
+ô nhục	0	1
+phaần bù	1	0
+phạm tội nghiêm trọng	0	1
+phản bội	0	1
+phế tích	1	1
+phép màu	1	0
+phụ bạc	0	1
+quái thai	0	1
+quỷ quái	0	1
+rạng sáng	1	0
+rối rắm	0	1
+rộng lượng	1	0
+ruồng bỏ	0	1
+sân chơi	1	0
+sự lộng hành	0	1
+sự ôm hôn	1	0
+sự phá sản	0	1
+sự run rẩy	0	1
+sự tha hóa	0	1
+sự thù oán	0	1
+sự ủng hộ tích cực	1	0
+tài năng	1	0
+tán dương	1	0
+tàn khốc	0	1
+tàn tích	1	1
+tán tụng	1	0
+tăng lên	1	0
+tệ hại	0	1
+thái dương	1	0
+thảm khốc	0	1
+thẩm mĩ	1	0
+tham nhũng	0	1
+thần kỳ	1	0
+thánh ca	1	0
+thành công	1	0
+thành kiến	0	1
+thật thà	1	0
+thi hài	1	1
+thiện trí	1	0
+thợ thủ công	1	0
+thối nát	0	1
+thông cảm	1	0
+thông thạo	1	0
+thù địch	0	1
+thú vị	1	0
+thu xếp	1	0
+thừa kế	1	0
+thương lượng	1	0
+tiến bộ	1	0
+tiến lên	1	0
+tin mù quáng	0	1
+toe toét	1	0
+tối tăm	0	1
+tồi tệ	0	1
+tổn thương	0	1
+tôn vinh	1	0
+tốt	1	0
+trái pháp luật	0	1
+trái với đạo đức	0	1
+tràn trề hy vọng	1	0
+trật khớp	0	1
+trêu	1	1
+triển vọng	1	0
+trình bày	1	0
+trình diến	1	0
+trống trải	0	1
+trục xuất	0	1
+tù nhân	0	1
+tử tế	1	0
+túng quẫn	0	1
+tưởng tượng	1	1
+nhọt	0	1
+vắng vẻ	0	1
+vấy máu	0	1
+vi phạm	0	1
+vĩnh cửu	1	0
+vịnh nhỏ	0	0
+vô lễ	0	1
+vỡ nợ	0	1
+vô tư	1	0
+xâm nhập	0	1
+xem thường	0	1
+yêu dấu	1	0
+yêu mến	1	0
+yêu thương	1	0
+ác độc	0	1
+ái ngại	0	1
+âm âm	0	1
+âm âm u u	0	1
+âm ỉ	0	1
+ám muội	0	1
+âm u	0	1
+an ủi	1	0
+anh hùng	1	0
+bạc	1	0
+bẩn	0	1
+ban lệnh	1	0
+ban phúc	1	0
+ban phước	1	0
+bạn thân	1	0
+báo hại	0	1
+bạo lực	0	1
+bạo ngược	0	1
+bảo vệ	1	0
+bắt cóc	0	1
+bất công	0	1
+bắt ép	0	1
+bất hạnh	0	1
+bất lương	0	1
+bất ổn	0	1
+bất tiện	0	1
+bất tỉnh	0	1
+bất tỉnh nhân sự	0	1
+bất trị	0	1
+bất tuân	0	1
+bậy bạ	0	1
+be bét	0	1
+bế mạc	1	0
+bềnh bồng	0	0
+bệnh than	0	1
+bị công kích	0	1
+bị huỷ hoại	0	1
+bị lạc	0	1
+bị loại	0	1
+bị tấn công	0	1
+bị thất sủng	0	1
+bị thương tổn	0	1
+bị truy nã	0	1
+bị tước quyền công dân	0	1
+biến mất	0	1
+biết trước	1	0
+bơi	1	0
+bôi bạc	0	1
+bội bạc	0	1
+bồng bềnh	0	0
+brute	0	1
+bửn	0	1
+bừng bừng lửa hận	0	1
+bừng sáng	1	0
+buôn lậu	0	1
+buồn phiền	0	1
+cá heo	1	0
+cái bổ sung	1	0
+cãi nhau	0	1
+căn nguyên	1	0
+cân nhắc	1	0
+cao cả	1	0
+cao quý	1	0
+cao thượng	1	0
+cấp cứu	0	1
+cau có	0	1
+cầu kỳ	1	0
+cau mày	0	1
+cay đắng	0	1
+chấm dứt	1	0
+chán nản	0	1
+chân thành	1	0
+chấn thương	0	1
+cháu	1	0
+châu báu	1	0
+chảy máu	0	1
+che đậy	0	1
+chèn ép	0	1
+chi phối	1	1
+chia sẻ	1	0
+chiếm hữu	1	0
+chiến thắng	1	0
+chiếu sáng	1	0
+chỗ thần bí	1	0
+chơi bời phóng đãng	0	1
+chơi khăm	0	1
+chói tai	0	1
+chơi xỏ	0	1
+chót lọt	1	0
+chu đáo	1	0
+chú hề	1	0
+Chữa lành	1	0
+Chúa tể	1	1
+chứng nào tật nấy	0	1
+chuộc lỗi	1	0
+chuyến đi	1	0
+chuyện yêu đương	1	0
+có khả năng phối hợp	1	0
+có khuynh hướng kết hợp	1	0
+có lương tâm	1	0
+có máu nóng	0	1
+có mụn	0	1
+có mụn nhọt	0	1
+có nhọt	0	1
+có thể nhận thức được	1	0
+có ý xấu	0	1
+côn đồ	0	1
+công hiệu	1	0
+cưới hỏi	1	0
+cười phá lên	1	0
+cứu giúp	1	0
+cứu nguy	1	0
+đa cảm	0	1
+đã dọn dẹp	1	0
+đã dọn sạch	1	0
+dã man	0	1
+đã phát quang	1	0
+đa sầu đa cảm	0	1
+đặc hữu	0	1
+đắc thắng	1	0
+đáng nguyền rủa	0	1
+đau buồn	0	1
+đau khổ	0	1
+đẫy đà	1	0
+đay nghiến	0	1
+dễ ấn tượng	1	0
+dễ bị ấn tượng	1	0
+dễ nổi cáu	0	1
+đền tội	1	0
+dị	0	1
+điên dại	0	1
+diệu kì	1	0
+điều sung sướng	1	0
+điêu trá	0	1
+đính hôn	1	0
+dỗ dành	1	0
+đoàn kết	1	0
+độc tài	0	1
+đóng kín	1	0
+đốt lửa cháy	0	1
+dữ	0	1
+dữ tợn	0	1
+dũng cảm	1	0
+đụng độ	0	1
+dưới chiều cao trung bình	0	1
+ép buộc	0	1
+gan dạ	1	0
+gắt gỏng	0	1
+gây ấn tượng	1	0
+gây bạo động	0	1
+gãy khúc	0	1
+gây tai họa	0	1
+ghê rợn	0	1
+ghê sợ	0	1
+ghê tởm	0	1
+ghét	0	1
+ghi bàn	1	0
+giải phóng	1	0
+giải thoát	1	0
+giảm giá trị	0	1
+giáo hội	1	0
+giàu ý tưởng	1	0
+gớm guốc	0	1
+hai lòng	0	1
+hại sức khỏe	0	1
+hăm hở	1	0
+hân hoan	1	0
+hang hái	1	0
+hạng sang	1	0
+hãnh diện	1	0
+hạnh phúc	1	0
+hành trình	1	0
+hao mòn	0	1
+háo sắc	0	1
+hay rầy la	0	1
+hay thù hằn	0	1
+hay vui đùa	1	0
+héo hon	0	1
+hổ thẹn	0	1
+Hoài bão	1	0
+hoàng kim	1	0
+hốc hác	0	1
+Hôi	0	1
+hồi hộp	1	0
+hồi phục	1	0
+hớn hở	1	0
+hôn nhân	1	0
+hống hách	0	1
+hứa hẹn	1	0
+hung ác	0	1
+hưng thịnh	1	0
+hứng thú	1	0
+hưởng thụ	1	0
+hủy diệt	0	1
+im ắng	0	1
+im bặt	0	1
+inh tai nhức óc	0	1
+kẻ ám sát	0	1
+kẻ thù	0	1
+kết đôi	1	0
+kết thúc	1	0
+khẩn cấp	0	1
+khao khát	1	0
+khát vọng	1	0
+khéo léo	1	0
+khép mình	0	1
+khó chịu	0	1
+khổ cực	0	1
+khó dậy	0	1
+khổ sở	0	1
+khoác lác	0	1
+khốn khổ	0	1
+khốn khổ khốn nạn	0	1
+khốn nạn	0	1
+không ai nhìn nhận	0	1
+không chấp	0	1
+không chữa được	0	1
+không chung thuỷ	0	1
+không có hình dáng cân đối	0	1
+không có hình dáng đẹp	0	1
+không công bằng	0	1
+không công tâm	0	1
+không dây	1	0
+không để ý	0	1
+không dùng được nữa	0	1
+không được trồng trọt	0	1
+không hạnh phúc	0	1
+không khuyết điểm	1	0
+không mệt mỏi	1	0
+không nói được	0	1
+không quan tâm	0	1
+không sáng	0	1
+không sinh lợi	0	1
+không sinh sản	0	1
+không suy nghĩ	0	1
+không thể cứu chữa	0	1
+không thể đoán	0	1
+không thể dự đoán	0	1
+không thể hoà giải	0	1
+không thể nói trước	0	1
+không thể tưởng tượng	0	1
+không thích hợp	0	1
+không thương tiếc	0	1
+không thuỷ chung	0	1
+không tì vết	1	0
+không trả công	0	1
+không trả lương	0	1
+không trung thực	0	1
+không tương thích	0	1
+không vững	0	1
+khủng khiếp	0	1
+khuyên giải	1	0
+kỉ niệm	1	0
+kì quặc	0	1
+kịch tính	1	0
+kinh hãi	0	1
+kinh hoàng	0	1
+kính mến	1	0
+kinh ngạc	0	1
+kinh tởm	0	1
+kính trọng	1	0
+kỳ cục	0	1
+kỳ diệu	1	0
+kỳ quặc	0	1
+làm bẩn	0	1
+làm chủ	1	0
+làm hại	0	1
+làm hỏng	0	1
+lầm lạc	0	1
+lấm lét	0	1
+làm ô danh	0	1
+làm săn chắc da	1	0
+làm săn da	1	0
+làm se da	1	0
+lanh lợi	1	0
+lảo đảo	0	1
+lập dị	0	1
+lấp lánh	1	0
+láu cá	0	1
+lễ cưới	1	0
+lễ hội	1	0
+lênh đênh	0	1
+liên hoan	1	0
+lo lắng bồn chồn	0	1
+lở tuyết	0	1
+loã lồ	0	1
+loại trừ	0	1
+lớn lên	1	0
+lòng lang dạ sói	0	1
+lòng tin	1	0
+lót vào	1	0
+lừa bịp	0	1
+luật sư	1	0
+ly kỳ	1	0
+mắc tội	0	1
+Mai phục	0	1
+man rợ	0	1
+mạnh mẽ	1	0
+mất tập trung	0	1
+mất trí	0	1
+mau lên	1	1
+mẫu mực	1	0
+máu nóng	0	1
+màu trắng	1	0
+máy thu thanh	1	0
+mê hoặc	0	1
+mê hồn	0	1
+mê muội	0	1
+mờ ám	0	1
+mơ màng	0	1
+mọc mầm	1	0
+nắm vững	1	0
+nắng	1	0
+nâng cao	1	0
+nâng đỡ	1	0
+nặng nhọc	0	1
+náo động	0	1
+ngất	0	1
+ngất xỉu	0	1
+ngày lễ	1	0
+ngây ngất	1	0
+ngỗ nghịch	0	1
+ngôi sao	1	0
+ngọt ngào	1	0
+ngu xuẩn	0	1
+người đần độn	0	1
+người được ủy quyền	1	0
+người hâm mộ	1	0
+người tin mù quáng	0	1
+nguồn gốc	1	0
+nguy hiểm	0	1
+nguy kịch	0	1
+nguy ngập	0	1
+nhà thờ	1	0
+nhăn nhó	0	1
+nhẵn nhụi	1	0
+nhanh nhẹn	1	0
+nhất	1	0
+nhát gan	0	1
+nhiễm	0	1
+nhiệm màu	1	0
+nhiệm mầu	1	0
+nhiệt tình	1	0
+nhiều tranh cãi	0	1
+nhỏ xíu	0	1
+nhói óc	0	1
+nhớp nhúa	0	1
+nhựa thơm	1	1
+nhức óc	0	1
+nổi lênh đênh	0	0
+nơi tôn nghiêm	1	0
+ô nhiễm	0	1
+ở thiên đường	1	0
+ốc đảo	1	0
+ốm yếu	0	1
+phá	0	1
+phá hoại	0	1
+phá hỏng	0	1
+phá hủy	0	1
+phá sản	0	1
+phạm tội	0	1
+phấn khởi	1	0
+phán quyết	1	0
+phần tốt nhất	1	0
+phao	1	0
+phát triển	1	0
+phẫu thuật	0	0
+phép mầu	1	0
+phi sản xuất	0	1
+phi thường	1	0
+phiền muộn	0	1
+phiêu bạt	0	1
+phong tê thấp	0	1
+phóng thích	1	0
+phu nhân	1	0
+phụ tình	0	1
+phục kích	0	1
+phước lành	1	0
+quà tặng	1	0
+quá tuyệt vời	1	0
+quái đản	0	1
+quang vinh	1	0
+quen thuộc	1	0
+quý giá	1	0
+quý trọng	1	0
+rađiô	1	0
+rẻ	1	0
+rối loạn	0	1
+rối như tơ vò	0	1
+rực rỡ	1	0
+rùng rợn	0	1
+ruy băng	1	0
+sai luật	0	1
+sẫm lại	0	1
+sạm lại	0	1
+sậm lại	0	1
+sẳn lòng	1	0
+sản lượng cao	1	0
+sẵn sàng	1	0
+sáng	1	0
+sáng chói	1	0
+say mê	1	0
+siêu phàm	1	0
+siêu việt	1	0
+sô cô la	1	0
+số may	1	0
+sở trường	1	0
+sôi nổi	1	0
+soi sáng	1	0
+sự ám sát	0	1
+sự đau đớn	0	1
+sự giáng sinh của chúa	1	0
+sự suy sụp	0	1
+sự xua đuổi	0	1
+sưng	0	1
+sùng bái	1	0
+sùng đạo	1	0
+sung mãn	1	0
+sung sướng	1	0
+sưng tấy	0	1
+sụp đổ	0	1
+taán tỉnh	1	0
+tai ách	0	1
+tai họa	0	1
+tai nạn	0	1
+tai ương	0	1
+tâm sự	1	0
+tàn bạo	0	1
+tàn phá	0	1
+tê liệt	0	1
+teo đi	0	1
+teo tóp	0	1
+thạch tím	0	1
+tham vọng	1	0
+thần kì	1	0
+thân mật	1	0
+thần thánh	1	0
+thân thiện	1	0
+thân thiết	1	0
+thanh danh	1	0
+Thánh địa	1	0
+thành tâm	1	0
+thành tích	1	0
+thanh toán	1	0
+thành tựu	1	0
+thấp khớp	0	1
+thất kinh	0	1
+thất thường	0	1
+thất trận	0	1
+thất vọng	0	1
+thấy trước	1	0
+thêu dệt	0	1
+thích thú	1	0
+thiêng	1	0
+thiêng liêng	1	0
+thiếu công bằng	0	1
+thiếu công tâm	0	1
+thiếu thốn tình cảm	0	1
+thô tục	0	1
+thống khổ	0	1
+thông minh	1	0
+thống trị	1	1
+thù nghịch	0	1
+thủ tiêu	0	1
+thứ xấu	0	1
+thuận lợi	1	0
+thuốc bổ	1	0
+thuộc loại sang	1	0
+thuộc loại sang trọng	1	0
+thương tích	0	1
+thuỷ chung	1	0
+tỉ mỉ	1	0
+tiền lương	1	0
+tiên tiến	1	0
+tiếng cười	1	0
+tiếng đi nặng nề	0	1
+tiêu diệt	0	1
+tiêu hủy	0	1
+tìm hiểu	1	0
+tin cây	1	0
+tính ác	0	1
+tình dục	1	0
+tinh hoa	1	0
+tỉnh lại	1	0
+tình sự	1	0
+tinh tú	1	0
+tinh túy	1	0
+tinh xảo	1	0
+tỏ tình	1	0
+toàn năng	1	0
+tối lại	0	1
+tôn phong	1	0
+tôn sùng	1	0
+tôn thờ	1	0
+tôn trọng	1	0
+trả tiền	1	0
+trái phép	0	1
+trái ý	0	1
+triị bệnh	1	0
+trò hề	1	0
+trở thành nhẫn tâm	0	1
+trôi giạt	0	1
+trọng vọng	1	0
+trung bình	0	1
+trường tồn	1	0
+tự hào	1	0
+tước đoạt	0	1
+tươi sáng	1	0
+tuyệt diệu	1	0
+tuyệt hảo	1	0
+tuyệt phẩm	1	0
+tuyệt trần	1	0
+tuyệt vọng	0	1
+tỷ mỉ	1	0
+u tối	0	1
+ưa nhục dục	0	1
+ưu thế	1	0
+va chạm	0	1
+vàng	1	0
+vết thương	0	1
+vĩ đại	1	0
+vị đắng	0	1
+vi khuẩn	0	1
+viêm khớp	0	1
+viêm nhiễm	0	1
+viêm tấy	0	1
+viễn chinh	0	0
+vĩnh hằng	1	0
+vô cực	1	0
+vô cùng	1	1
+vô giá	1	0
+vô lại	0	1
+vô phương cứu chữa	0	1
+vô tận	1	0
+vỗ tay	1	0
+vô vọng	0	1
+vũ khí	1	1
+vụ nổ	0	1
+vũ trang	1	1
+vua	1	1
+vừa vặn	1	0
+vui mừng	1	0
+xác xơ	0	1
+xấu xa	0	1
+xem xét	1	0
+xiên xẹo	0	1
+xơ xác	0	1
+xóc	0	1
+xuất hiện	1	0
+xúc động	1	0
+xuống cấp	0	1
+yếu kém	0	1
+ác	0	1
+ai oán	0	1
+ầm ầm	0	1
+ấm áp	1	0
+ấm cúng	1	0
+ảm đạm	0	1
+ám sát	0	1
+âm tính	1	0
+an toàn	1	0
+ào ào	0	1
+áo giáp	1	0
+ảo não	0	1
+ảo tưởng	0	1
+âu sầu	0	1
+âu yếm	1	0
+áy náy	0	1
+bả	0	1
+bạ đâu vứt đấy	0	1
+ba que xỏ lá	0	1
+bạc bẽo	0	1
+Bạch Mã hoàng tử	1	0
+bài bạc	0	1
+bại liệt	0	1
+bầm tím	0	1
+bạn	1	0
+bẩn be bét	0	1
+bẩn bê bết	0	1
+bần cùng	0	1
+bạn đồng hành	1	0
+bẳn gắt	0	1
+bản lĩnh	1	0
+bắn phá	0	1
+bẳn tính	0	1
+báng bổ	0	1
+bằng một tai	0	1
+bảnh bao	1	0
+báo động	0	1
+bạo hành	0	1
+bạo loạn	0	1
+bão tố	0	1
+bảo toàn	1	0
+bảo tồn	1	0
+bất bình	0	1
+bắt đầu nảy nở	1	0
+bất đồng chính kiến	0	1
+bất khả thi	0	1
+bất kính	0	1
+bắt nạt	0	1
+bát nháo	0	1
+bất tài	0	1
+bất tài vô dụng	0	1
+bất xứng	0	1
+bầu bạn	1	0
+bầy nhầy	0	1
+bén	0	1
+bền chắc	1	0
+béo	0	1
+bí ẩn	0	0
+bị biên tịch	0	1
+bị bỏ rơi	0	1
+bị bong	0	1
+bị bong ra	0	1
+bị bóp méo	0	1
+bị cáo	0	0
+bị cất giấu	0	1
+bị chơi ngải	0	1
+bị chôn giấu	0	1
+bị chua	0	1
+bị dừng lại	0	1
+bị ếm	0	1
+bị giam cầm	0	1
+bị hỏng vứt đi	0	1
+bị kết tội	0	1
+bi kịch	0	1
+bị kiện	0	0
+bị làm phiền	0	1
+bị lên men	0	1
+bị ngừng lại	0	1
+bị ôi	0	1
+bi quan	0	1
+bị rời	0	1
+bị rời ra	0	1
+bị sung công	0	1
+bị thất tình	0	1
+bị thiu	0	1
+bị thư ngải	0	1
+bị tịch thu	0	1
+bị tổn thương	0	1
+bị trật	0	1
+bị trật khớp	0	1
+bị trói chặt	0	0
+bị trù ếm	0	1
+bị tước quyền bầu cử	0	1
+bị yểm bùa	0	1
+bịa đặt	0	1
+biến dạng	0	1
+biến đổi	0	0
+biến hoá	0	0
+biết nói	1	0
+biểu lộ thành kiến	0	1
+bình chân như vại	0	1
+bình đẳng	1	0
+bịt mắt	0	0
+bò con	1	0
+bội nghĩa	0	1
+bồn chồn	0	1
+bóng đá	1	0
+bóng láng	1	0
+bóng rổ	1	0
+bù nhìn	1	1
+bực	0	1
+bức bối	0	1
+bực bội	0	1
+bực dọc	0	1
+bực mình	0	1
+bực tức	0	1
+bừng bừng lửa giận	0	1
+buồn chán	0	1
+buồn rầu	0	1
+buồn thiu	0	1
+buốt nhói	0	1
+bứt rứt	0	1
+cá cược	0	1
+cá tính	1	0
+cải tiến	1	0
+căm	0	1
+cam chịu	0	1
+cám dỗ	1	1
+căm giận	0	1
+căm hờn	0	1
+cảm hứng	1	0
+cam kết	1	0
+căm phẫn	0	1
+cảm thông	1	0
+căm thù	0	1
+căm tức	0	1
+cân đối	1	0
+cẩn thận	0	1
+cận thị	0	1
+cảnh nô lệ	0	1
+cảnh sát	1	0
+cảnh tù tội	0	1
+cao hơn	1	0
+cấp phép	1	0
+cáu	0	1
+cáu gắt	0	1
+cáu giận	0	1
+cáu kỉnh	0	1
+cẩu thả	0	1
+cay nghiệt	0	1
+cây xanh	1	0
+chắc chắn	1	0
+chải chuốt	1	0
+chải chuốt cầu kì	1	0
+châm chọc	0	1
+chán ngấy	0	1
+chật cứng	0	1
+chật ních	0	1
+chất quá đầy	0	1
+chất quá nặng	0	1
+chê trách	0	1
+chệch	0	1
+chết điếng	0	1
+chết điếng người	0	1
+chết lặng	0	1
+chín muồi	1	0
+chính	1	0
+chờ đợi	0	1
+cho phép	1	0
+chói mắt	0	1
+chối tai	0	1
+chôn cất	0	1
+chưa bán được	0	1
+chưa giải quyết	0	1
+chưa gọt giũa	0	1
+chưa mài giũa	0	1
+chua ngoa	0	1
+chưa thanh toán	0	1
+chúa trời	1	0
+chua xót	0	1
+chửi rủa	0	1
+chung thuỷ	1	0
+chướng tai gai mắt	0	1
+chuyện liến thoắng	0	1
+chuyên tâm	1	0
+cờ bạc	0	1
+có bóng mát	1	0
+có bóng râm	1	0
+cơ cực	0	1
+cỏ dại	0	1
+có đường nối	1	0
+có gu thẩm mĩ	1	0
+có gu thẩm mỹ	1	0
+có hạn	0	1
+có học	1	0
+có hứng thú	1	0
+có khả năng	1	0
+có khiếu nhạc	1	0
+có khiếu thẩm mĩ	1	0
+có khiếu thẩm mỹ	1	0
+có luận chứng	1	0
+có ma	0	1
+có mắt thẫm mĩ	1	0
+có mắt thẫm mỹ	1	0
+có mùi ôi thiu	0	1
+có óc thẩm mĩ	1	0
+có óc thẩm mỹ	1	0
+có tài năng âm nhạc	1	0
+có thẩm mĩ	1	0
+có thẩm mỹ	1	0
+có thể tái tạo	1	0
+có tính thám hiểm	0	0
+có tội	0	1
+cộc cằn	0	1
+coi chừng	0	1
+còn nguyên vẹn	1	0
+cơn thịnh nộ	0	1
+công an	1	0
+cống hiến	1	0
+công kíc	0	1
+công tâm	1	0
+cốt lõi	1	0
+cự tuyệt	0	1
+cục cằn	0	1
+cực khoái	1	0
+cún yêu	1	0
+cuộc may rủi	0	1
+cuốn hút	1	0
+cuồng bạo	0	1
+cưỡng bức	0	1
+cương cứng	0	0
+cuồng điên	0	1
+đã chế biến	1	0
+đã được công nhận	1	0
+đa kháng thể	1	0
+đã quên	0	1
+đa số	1	0
+đã thuần dưỡng	1	0
+đã xử lí	1	0
+dai dẳng	0	1
+đãi tiệc	1	0
+dâm đãng	0	1
+dâm dật	0	1
+dâm dục	0	1
+đám ma	0	1
+dâm ô	0	1
+dâm tà	0	1
+đáng ca tụng	1	0
+đáng ghét	0	1
+đáng khen ngợi	1	0
+đáng khinh	0	1
+đăng quang	1	0
+đáng sợ	0	1
+đáng tin cậy	1	0
+đáng tuyên dương	1	0
+đánh bạc	0	1
+đanh đá	0	1
+đánh đập	0	1
+đánh lừa	0	1
+đảo lộn	0	1
+đào tạo	1	0
+dấp dính	0	1
+đầu độc	0	1
+đầu đường xó chợ	0	1
+đầu gấu	0	1
+đầu lòng	0	0
+dấu yêu	1	0
+đầy	0	1
+đầy ăm ắp	1	0
+đầy ắp	1	0
+đầy mầm bệnh	0	1
+đầy thiện cảm	1	0
+đầy tràn	1	0
+dể bảo	1	0
+dễ bị hại	0	1
+dễ bị lừa	0	1
+dễ cáu kỉnh	0	1
+dễ gần	1	0
+dễ gạt	0	1
+dễ hấp thụ	1	0
+dễ học	1	0
+dễ kích động	0	1
+dễ lừa	0	1
+dễ nổi nóng	0	1
+dễ nóng giận	0	1
+đề phòng	0	1
+dể tin	0	1
+dễ tức	0	1
+dễ ưa	1	0
+dễ vỡ	0	1
+đen	0	1
+đểu	0	1
+đều đặn	1	0
+đểu giả	0	1
+đi lính	1	0
+đi nghỉ	1	0
+địch	0	1
+đích thực	1	0
+điểm không	0	1
+điện	1	0
+điên tiết	0	1
+diệt khuẩn	1	0
+điều trị	1	0
+đơ	0	1
+đờ	0	1
+đờ đẫn	0	1
+do dự	0	1
+dở hơi	0	1
+dở hơn	0	1
+đồ khốn	0	1
+đổ nát	0	1
+đồ ngu	0	1
+đoán trước	0	1
+độc địa	0	1
+độc thần	0	0
+đói	0	1
+đối địch	0	1
+đổi màu	0	1
+đổi mới	1	0
+đơn phương	0	1
+đồng bóng	0	1
+đỏng đảnh	1	0
+đốt nhà	0	1
+đốt phá	0	1
+đủ ăn	1	0
+đủ lông đủ cánh	1	0
+đứa bé	1	0
+dựa dẫm	1	1
+đứa trẻ	1	0
+đúng	1	0
+đứng đầu	1	0
+đúng luật	1	0
+đụng nhau	0	1
+được ban phúc	1	0
+được bảo vệ	1	0
+được cải tạo	1	0
+được cải thiện	1	0
+được canh giữ	1	0
+được canh phòng	1	0
+được chiều	0	0
+được chọn lọc	1	0
+được cổ vũ	1	0
+được cưng chiều	0	0
+được động chạm	1	0
+được đóng dấu	1	0
+được động viên	1	0
+được giữ gìn	1	0
+được giúp	1	0
+được hỗ trợ	1	0
+được khuyến khích	1	0
+được lọc lựa	1	0
+được nâng cấp	1	0
+được niêm phong	1	0
+được phát triển	1	0
+được phòng vệ	1	0
+được siết chặt	1	0
+được thiên vị	0	0
+được trang trí	1	0
+được trợ giúp	1	0
+được tuyển	1	0
+được tuyển chọn	1	0
+được ưa thích	1	0
+duy trì	1	0
+eo hẹp	0	1
+gan chuột nhắt	0	1
+gần gũi	1	0
+gần gụi	1	0
+gan thỏ đế	0	1
+gắt	0	1
+gặt hái	1	0
+gầy gò	0	1
+gây hấn	0	1
+gây kinh hoàng	0	1
+gây nghẹt thở	0	1
+gây ngột ngạt	0	1
+gây run	0	1
+gây sốc	0	1
+gây tai nạn rồi bỏ trốn	0	1
+gây thiện cảm	1	0
+gây tranh cãi	0	1
+ghét cay ghét đắng	0	1
+giả tạo	0	1
+giận	0	1
+giận điên	0	1
+giận điên người	0	1
+giận dỗi	0	1
+giận dữ	0	1
+gian lận	0	1
+giận tái người	0	1
+giận tím gan	0	1
+gian trá	0	1
+gian xảo	0	1
+giông bão	0	1
+giống thật	1	0
+giông tố	0	1
+giữ gin	1	0
+giúp đỡ	1	0
+hà khắc	0	1
+haăng hái	1	0
+hài hòa	1	0
+hãi hùng	0	1
+hài lòng	1	0
+ham biết	1	0
+hâm mộ	1	0
+hạn hẹp	0	1
+hằn học	0	1
+hạng bét	0	1
+hăng hái	1	0
+hành động	0	1
+hành hạ	0	1
+hành hung	0	1
+hào hoa phong nhã	1	0
+hào phóng	1	0
+hảo tâm	1	0
+hấp dẫn	1	0
+hậu môn	0	1
+hay cãi nhau	0	1
+hay gắt gỏng	0	1
+hay hằn học	0	1
+hay nóng giận	0	1
+hèn	0	1
+hẻo lánh	0	1
+hết thời thanh xuân	0	1
+hiểm độc	0	1
+hiếm gặp	0	0
+hiếm xảy ra	0	0
+hiền lành	1	0
+hiếu chiến	0	1
+hiếu kỳ	1	0
+hiệu quả	1	0
+hiệu quả cao	1	0
+hồ đồ	0	1
+hồ hởi	1	0
+hòa giải	1	0
+hòa hợp	1	0
+hòa thuận	1	0
+hoan nghênh	1	1
+hoàn thành	1	0
+hoàng đế	0	0
+hoảng hốt	0	1
+hoang mang	0	1
+hoảng sợ	0	1
+hoàng tử Bạch Mã	1	0
+hoen ố	0	1
+hội đồng	1	0
+hói trán	0	1
+hỗn độn	0	1
+hỗn hợp	0	1
+hỗn loạn	0	1
+hổn loạn	0	1
+hỗn tạp	0	1
+hỏng	0	1
+hơp nhất	1	0
+hợp nhất	1	0
+hợp pháp	1	0
+hốt hoảng	0	1
+hư cấu	0	1
+hư đốn	0	1
+hứa hẹn tốt	1	0
+hứng	1	0
+hung hăng	0	1
+hùng hổ	0	1
+hùng vĩ	1	0
+hương thơm phảng phất	1	0
+húp lên	0	1
+hữu nghị	1	0
+huy hoàng	1	0
+huyền bí	0	1
+inh tai	0	1
+ít tài nguyên	0	1
+kẻ lười biếng	0	1
+kếch xù	1	0
+kém tài nguyên	0	1
+kém tự tin	0	1
+két bạc	1	0
+kêu la	0	1
+kêu vo vo	1	0
+khả ố	0	1
+khả ước	1	0
+khác biệt	0	1
+khắc khổ	0	1
+khâm phục	1	0
+kháng từ	0	1
+kháng viêm	1	0
+khen ngợi	1	0
+khiển trách	0	1
+khiếp đản	0	1
+khiếp sợ	0	1
+khiêu dâm	0	1
+khinh suất	0	1
+khờ	0	1
+khó bảo	0	1
+khó chữa	0	1
+khờ dại	0	1
+khổ hạnh	0	1
+khó tiếp thu	0	1
+khó ưa	0	1
+khơi lại	1	1
+khôi ngô tuấn tú	1	0
+không ân hận	0	1
+không an toàn	0	1
+không bán được	0	1
+không bền	0	1
+không bị cầm tù	1	0
+không bị chiếm đóng	1	0
+không bị gỉ	1	0
+không bị giam hãm	1	0
+không bị han	1	0
+không bị hư hại	1	0
+không bị nghi	1	0
+không bị nghi ngờ	1	0
+không bị rỉ	1	0
+không bị tình nghi	1	0
+không bị tổn hại	1	0
+không bị tù giam	1	0
+không biết nói	0	1
+không cải thiện	0	1
+không cải tiến	0	1
+không cẩn trọng	0	1
+không chín chắn	0	1
+không chịu thuế	1	0
+không có khả năng thanh toán	0	1
+không có khả năng trả nợ	0	1
+không có mạch	0	1
+không có nhân phẩm	0	1
+không có nhận thức	0	1
+không có phẩm cách	0	1
+không có phẩm chất	0	1
+không có sự sống	0	1
+không có thật	0	1
+không có tinh thần	0	1
+không có tư cách	0	1
+không có vết nhơ	1	0
+không còn sống	0	1
+không công	0	1
+không đáng có	0	1
+không đắt	1	0
+không đạt được	0	1
+không đạt yêu cầu,	0	1
+không đầy đủ	0	1
+không dễ khuất phục	1	0
+không dễ phục tùng	1	0
+không dễ quy phục	1	0
+không dịu bớt	0	1
+không đoan trang	0	1
+không đồng tâm	0	1
+không đủ năng lực	0	1
+không dừng	0	1
+không đứng đắn	0	1
+không dùng được	0	1
+không được hỗ trợ	0	1
+không được quan tâm chăm sóc	0	1
+không được tích sự gì	0	1
+không được trò trống gì	0	1
+không được ủng hộ	0	1
+không được việc	0	1
+không được việc gì	0	1
+không gỉ	1	0
+không giải quyết được	0	1
+không giảm nhẹ	0	1
+không han gỉ	1	0
+không han rỉ	1	0
+không hấp dẫn	0	1
+không hi vọng	0	1
+không hoà giải được	0	1
+không hối hận	0	1
+không hợp tác	0	1
+không khéo léo	0	1
+không làm vui lòng	0	1
+không lí thú	0	1
+không liền mạch	0	1
+không lọt qua	1	0
+không mạch lạc	0	1
+không minh bạch	0	1
+không ngấm	1	0
+không ngoan	0	1
+không nhất quán	0	1
+không nổi bật	0	1
+không nơi nương tựa	0	1
+không pha tạp	1	0
+không phân minh	0	1
+không qua lại	0	1
+không sinh động	0	1
+không sống	0	1
+không tạp nhiễm	1	0
+không tập nhiễm	1	0
+không thắng lợi	0	1
+không thành công	0	1
+không thành thực	0	1
+không thể bẻ gãy	1	0
+không thể bỏ qua	0	1
+không thể cảm nhận	0	1
+không thể cảm thấy	0	1
+không thể chịu nổi	0	1
+không thể đổi chác	0	1
+không thể giải quyết được	0	1
+không thể giành lại	0	1
+không thể làm dịu được	0	1
+không thể lấy lại	0	1
+không thể phủ nhận	1	0
+không thể thích nghi	0	1
+không thể thích ứng	0	1
+không thể thừa nhận	0	1
+không thể tìm lại	0	1
+không thể trả nợ	0	1
+không thể trao đổi	0	1
+không thích	0	1
+không thiên vị	1	0
+không thở	0	1
+không thở nữa	0	1
+không thoả mãn	0	1
+không thuận lợi	0	1
+không tiếp thu được	0	1
+không tin	0	1
+không trật tự	0	1
+không trọn vẹn	0	1
+không tự nhiên	0	1
+không tương hỗ	0	1
+không vừa lòng	0	1
+không vừa ý	0	1
+khử trùng	1	0
+kịch liệt	0	1
+kích thích tình dục	0	0
+kiên nhẫn	1	0
+kiêu căng	0	1
+kiêu ngạo	0	1
+kinh sợ	0	1
+kỳ lạ	0	1
+kỳ nghỉ	1	0
+lạ kỳ	0	0
+la lối	0	1
+lác hội tụ	0	1
+lác trong	0	1
+làm cho người ta không ưa	0	1
+làm cho yên lòng	1	0
+làm đẹp	1	0
+làm duyên	1	0
+làm gai người	0	1
+làm hoảng sợ	0	1
+làm khó chịu	0	1
+làm mẹ	1	0
+làm mới	1	0
+làm quá	1	0
+làm say đắm	1	0
+làm sợ hãi	0	1
+làm tình	1	0
+làm yên lòng	1	0
+lan man	0	1
+lăng mạ	0	1
+lãng phí	0	1
+lành nghề	1	0
+lão luyện	1	0
+lậu	0	1
+lâu bền	1	0
+lậu thuế	0	1
+lây lan	0	1
+lầy lội	0	1
+Lễ	1	0
+lé hội tụ	0	1
+lẻ loi	0	1
+lễ phép	1	0
+lệ thuộc	1	1
+lé trong	0	1
+lệch	0	1
+lem luốc	0	1
+lên ngôi	1	0
+leo lắt	0	1
+lịch sự	1	0
+liệng bom	0	1
+lo lắng	0	1
+lo sợ	0	1
+loạn thị	0	1
+loạn trí	0	1
+lốc xoáy	0	1
+lòe loẹt	0	1
+lôi cuốn	1	0
+lời hứa	1	0
+lời khuyên	1	0
+lộn máu	0	1
+lộn tiết	0	1
+lóng lánh	1	0
+lộng lẫy	1	0
+lù mù	0	1
+lừa đảo	0	1
+lừa lọc	0	1
+lưỡng lự	0	1
+lướt qua	1	0
+lưu loát	0	1
+ma ám	0	1
+mạch không đập	0	1
+mải mê đánh bạc	0	1
+mai táng	0	1
+màn trời chiếu đất	0	1
+mập	0	1
+mặt dạn mày dày	0	1
+mất dạy	0	1
+mặt dày	0	1
+mất tinh thần	0	1
+mất trật tự	0	1
+mất vệ sinh	0	1
+mâu thuẫn	0	1
+may bất ngờ	1	0
+may mắn	1	0
+may mắn bất ngờ	1	0
+mê đi	0	1
+mĩ miều	1	0
+miễn thuế	1	0
+miệt mài	1	0
+mổ	0	0
+mờ mịt	0	1
+mồi	0	1
+mới bị ăn cắp	0	1
+mới đẻ	1	0
+mới mất	0	1
+mới nở	1	0
+mới sanh	1	0
+mới sinh	1	0
+mọt	0	1
+một bên	0	1
+một phía	0	1
+mù mờ	0	1
+mụ phù thủy	0	1
+mục sư	1	0
+mủi lòng	1	0
+mùi ôi	0	1
+mùi ôi thiu	0	1
+mùi thiu	0	1
+mun	0	1
+mưu mẹo	1	0
+mỹ miều	1	0
+nắm bom	0	1
+nản chí	0	1
+ngả màu	0	1
+ngầm hiểu	0	0
+ngấm ngầm	0	1
+ngẩn người	0	1
+ngẩn tò te	0	1
+ngang bằng	1	0
+ngạo mạn	0	1
+ngập ngừng	0	1
+ngày nghỉ	1	0
+ngay thơ	1	0
+nghe lời	1	0
+nghèo túng	0	1
+nghịch tai	0	1
+nghiêm trọng	0	1
+ngoa ngoắt	0	1
+ngoại tình	0	1
+ngoan đạo	1	0
+ngốc	0	1
+ngọn	1	0
+ngon xơi	1	0
+ngọt xớt	0	0
+ngu si	0	1
+ngược đãi	0	1
+nguội lạnh	0	1
+nguội ngắt	0	1
+nguội nghe nguội ngắt	0	1
+người ngoài hành tinh	0	1
+nguội tanh	0	1
+nguội tanh nguội ngắt	0	1
+nguồn lực	1	0
+nguồn tài nguyên	1	0
+ngượng	0	1
+ngưỡng mộ	1	0
+nguyên chất	1	0
+nguyền rủa	0	1
+nguyên sơ	1	0
+nhà làm	1	0
+nhã nhặn	1	0
+nhà vua	0	0
+nhân đạo	1	0
+nhẫn lại	1	0
+nhẵn thin thín	1	0
+nhanh nhẩu	1	0
+nhao nhao	0	1
+nhấp nháy	0	0
+Nhật kí	1	0
+nhát như thỏ đế	0	1
+nhảy	1	0
+nhạy bén	1	0
+nhẹ dạ	1	0
+nhẹ dạ cả tin	0	1
+nhiệt huyết	1	0
+nhiều rủi ro	0	1
+nhọn	0	1
+nhọn hoăn hoắt	0	1
+nhọn hoắt	0	1
+nhốn nháo	0	1
+nhớp nháp	0	1
+nhợt nhạt	0	1
+nhùng nhằng	0	1
+nhuốm máu	0	1
+niềm vui	1	0
+nổi giận	0	1
+nổi loạn	0	1
+nổi tiếng	1	0
+nồng hậu	1	0
+nóng lòng	0	1
+nồng nhiệt	1	0
+nông nổi	0	1
+nóng tính	0	1
+nửa đùa nửa thật	0	1
+nực cười	0	1
+ố	0	1
+ố màu	0	1
+ố vàng	0	1
+oán	0	1
+oán giận	0	1
+oanh tạc	0	1
+ôi thiu	0	1
+ôi thối	0	1
+ôm ấp	1	0
+om sòm	0	1
+ốm tương tư	0	1
+om xòm	0	1
+ơn trời	1	0
+phá hại	0	1
+pha tạp	0	1
+phạm luật	0	1
+phẫn	0	1
+phân biệt	0	1
+phân biệt đối xử	0	1
+phần chính	1	0
+phản đối	0	1
+phân đông	1	0
+phản động	0	1
+phản lại	0	1
+phần lớn	1	0
+phẫn nộ	0	1
+phân tâm	0	1
+phân tích	1	0
+phát đạt	1	0
+phát điên lên	0	1
+phiền nhiễu	0	1
+phiền phức	0	1
+phiền toái	0	1
+phồn vinh	1	0
+phù dâu	1	0
+phù lên	0	1
+phủ nhận	0	1
+phụ thuộc	1	1
+phù thủy	1	0
+quá kích động	0	1
+quái dị	0	1
+quái thú	0	1
+quân tử	1	0
+quật bằng dây lưng	0	1
+quấy rầy	0	1
+quy củ	1	0
+quý hiếm	1	0
+quyến rũ	1	1
+rải rác	0	1
+rạng rỡ	1	0
+rạo rực	1	0
+rất hay	1	0
+reo hò	1	1
+rét	0	1
+rét buốt	0	1
+rét căm căm	0	1
+rét cắt da cắt thịt	0	1
+rét mướt	0	1
+rối tắm	0	1
+rộng lụng thụng	0	1
+sắc	0	1
+sạch	1	0
+sạch sẽ	1	0
+sai phạm	0	1
+sai quy tắc	0	1
+sản xuất thủ công	1	0
+sáng bóng	1	0
+sáng dạ	1	0
+sáng loá	1	0
+sáng loáng	1	0
+sành sỏi	1	0
+sát khuẩn	1	0
+sát trùng	1	0
+sâu cay	0	1
+sầu thảm	0	1
+sỉ nhục	0	1
+siêu nhân	1	0
+sinh khí	1	0
+sinh sự	0	1
+sợ hãi	0	1
+sống lại	1	1
+sống lâu năm	1	0
+sốt sắng	1	0
+sự giàu có	1	0
+sự giàu sang	1	0
+sự kính yêu	1	0
+sự phẫn nộ	0	1
+sự quý mến	1	0
+sức cùng lực kiệt	0	1
+sức nặng	1	0
+sức sống	1	0
+súc vật	0	1
+sung công	0	1
+sưng húp	0	1
+sưng lên	0	1
+sung mãn nhất	1	0
+sưng phù lên	0	1
+sút giảm	0	1
+suy tàn	0	1
+tà dâm	0	1
+tạ lỗi	1	0
+tắc thở	0	1
+tắc trách	0	1
+tách biệt	1	1
+tách ra	0	1
+tai hại	0	1
+tái ngắt	0	1
+tái xanh	0	1
+tạm bợ	0	1
+tâm phúc	1	0
+tâm thần	0	1
+tàn ác	0	1
+tấn công	0	0
+tán gái	1	0
+tàn lụi	0	1
+tàn tật	0	1
+tạp nham	0	1
+tấy	0	1
+tệ hơn	0	1
+tha tội	1	0
+thảm hoạ	0	1
+thảm kịch	0	1
+thâm tím	0	1
+thần tiên	1	0
+thân tín	1	0
+thân yêu	1	0
+thánh đường	1	0
+thành kính	1	0
+thanh tao	1	0
+thành thạo	1	0
+thánh thiện	1	0
+thanh thoát	1	0
+thanh tú	1	0
+thấp	0	1
+thật	1	0
+thất tình	0	1
+thay đổi thất thường	0	1
+theo chủ nghĩa hoà bình	1	0
+theo lề thói	0	0
+theo tập quán	0	0
+theo tục lệ	0	0
+thích đáng	1	0
+thiên đàng	1	0
+thiên đường	1	0
+thiện tâm	1	0
+thiên thần	1	0
+thiếu tế nhị	0	1
+thiếu thốn	0	1
+thiếu tinh thần trách nhiệm	0	1
+thiếu trách nhiệm	0	1
+thiếu tự tin	0	1
+thô bạo	0	1
+thô bỉ	0	1
+thô lỗ	0	1
+thô thiển	0	1
+thóc mách	0	1
+thọc mạch	0	1
+thối rữa	0	1
+thơm ngon	1	0
+thống nhất	1	0
+thông thái	1	0
+thủ đoạn	0	1
+thu hoạch	1	0
+thú nhận	1	1
+thú tội	1	1
+thú vật	0	1
+thuần chất	1	0
+thuần hậu	1	0
+thuần nhất	1	0
+thực	1	0
+thương tâm	1	0
+thương tổn	0	1
+thương yêu	1	0
+thụt lại	0	1
+thụt lùi	0	1
+tịch thu	0	1
+tiềm năng	1	0
+tiêm nhiễm	0	1
+tiền phạt	0	1
+tiến triển	1	0
+tím bầm	0	1
+tìm thấy	1	0
+tin cậy	1	0
+tin tưởng	1	0
+tính bạn	1	0
+tình cảm	1	0
+tính cầm thú	0	1
+tính cáu gắt	0	1
+tinh khiết	1	0
+tình nghi	0	1
+tình người	1	0
+tinh tế	1	0
+tinh thông	1	0
+tình yêu	1	0
+tò mò	1	0
+tò mò tọc mạch	0	1
+toàn diện	1	0
+tọc mạch	0	1
+tồi	0	1
+tồi hơn	0	1
+tới ngưỡng	0	1
+tội thông dâm	0	1
+tống tiền	0	1
+tốt bụng	1	0
+tốt lành	1	0
+trải đời	1	1
+trái luật	0	1
+trầm trọng	0	1
+trấn an	1	0
+tràn đầy	1	0
+trần như nhộng	0	1
+tràn trề	1	0
+trần truồng	0	1
+tráng lệ	1	0
+trẻ em	1	0
+trêu ngươi	0	1
+trinh tiết	1	0
+trơ tráo	0	1
+trọc	0	1
+trọc đầu	0	1
+trội hơn	1	0
+trốn việc	1	0
+trống huếch trống hoác	0	1
+trọng lực	1	0
+trong sạch	1	0
+trong sáng	1	0
+trưởng thành	1	0
+trượt đi	1	0
+truyền cảm	1	0
+tu	0	0
+từ bỏ	0	1
+tu dưỡng	1	0
+tự huỷ diệt	0	1
+tự huỷ hoại	0	1
+tù mù	0	1
+tức cười	0	1
+tức điên người	0	1
+tức giận	0	1
+từng trải	1	1
+tươi	1	0
+tương tư	0	1
+tuyệt vời	1	0
+ủ dột	0	1
+uất	0	1
+uất hận	0	1
+uất ức	0	1
+uể oải	0	1
+ứng biến	1	0
+ương bướng	0	1
+ướt đẫm ướt đìa	1	0
+ướt lướt thướt	0	1
+ướt như chuột lột	0	1
+ưu việt	1	0
+uy tín	1	0
+văn minh	1	0
+vàng hoe	0	1
+vẻ vang	1	0
+viêm	0	1
+viên mãn	1	0
+viễn thị	0	1
+vinh dự	1	0
+vinh quang	1	0
+vô chính phủ	0	1
+vô giáo dục	0	1
+vô kỉ luật	0	1
+vô liêm sỉ	0	1
+vô ơn	0	1
+vô sinh	0	1
+vô tích sự	0	1
+vô tính	0	1
+vô vị	0	1
+vừa bị ăn cắp	0	1
+vừa bị lấy đi	0	1
+vừa bị trộm đi	0	1
+vừa ý	1	0
+vực sâu	0	1
+vực thẳm	0	1
+vui thích	1	0
+vương vãi	0	1
+vuốt ve	1	0
+xa lạ	0	1
+xác thực	1	0
+xâm lăng	0	1
+xâm lược	0	1
+xán lạn	1	0
+xanh	1	0
+xanh xao	0	1
+xấu số	0	1
+xấu thêm	0	1
+xệp xệ	0	1
+xin lỗi	1	0
+xoi mói	0	1
+xuất chúng	1	0
+xuất sắc	1	0
+xúc phạm	0	1
+xung đột	0	1
+xuôi chiều mát mái	1	0
+xương sống	1	0
+xuyên tạc	0	1
+yên bình	1	0
+yên lặng	1	0
+yên ổn	1	0
+yêu	1	0
+yêu quý	1	0
+yêu thích	1	0
+ác liệt	0	1
+ác nghiệp	0	1
+ác tính	0	1
+ái quốc	1	0
+ái tình	1	0
+âm thầm	0	0
+ẩm thực	1	0
+ẩn	0	1
+ân hận	0	1
+ăn khách nhất	1	0
+ăn mòn	0	1
+ăn năn	1	0
+ẩn náu	1	0
+ăn ở hai lòng	0	1
+ăn sâu thành thói quen	0	1
+ăn thịt	0	1
+ẩn ý	0	0
+ảo ảnh	0	1
+ảo giác	0	1
+ấp ủ	1	0
+ẩu đả	0	1
+Bác sĩ	1	0
+Bách khoa toàn thư	1	0
+bài hát ngắn	1	0
+bại trận	0	1
+bán chạy nhất	1	0
+băn khoăn	0	1
+bận tâm	0	0
+bẩn tưởi	0	1
+bản tường trình	1	0
+bằng đường hàng không	0	0
+bằng hàng không	0	0
+bảo đảm	1	0
+bạo dạn	1	0
+bạo động	0	1
+Bảo hành	1	0
+bão hòa	0	1
+bao kín	0	0
+bảo mẫu	1	0
+bạo tàn	0	1
+bảo về	1	0
+bập bà bập bùng	0	1
+bất cân bằng	0	1
+bất cân đối	0	1
+bất đắc dĩ	0	1
+bất đối xứng	0	1
+bất động	0	1
+bất hoà	0	1
+bất lịch sự	0	1
+bất nhân	0	1
+bất phục tùng	0	1
+bất thường	0	1
+bất trung	0	1
+bậy	0	1
+bền bỉ	1	0
+bền chặt	1	0
+bền chí	1	0
+béo ngậy	0	1
+bét	0	1
+bị bẩn	0	1
+bị bắt buộc	0	1
+bị bóc lột	0	1
+bị bưng bít	0	1
+bị cận thị	0	1
+bị chấn thương	0	1
+bị che đậy	0	1
+bị che giấu	0	1
+bị đánh bại	0	1
+bị động	0	1
+bị động đến	0	0
+bị giấu giếm	0	1
+bị hạn chế	0	1
+bị hắt hủi	0	1
+bị hỏng	0	1
+bị hư	0	1
+bị lẩn khuất	0	1
+bị nghi vấn	0	1
+bị nhiễm trùng	0	1
+bị ruồng bỏ	0	1
+bị ruồng rẫy	0	1
+bị sờn	0	1
+bị táo bón	0	1
+bi thảm	0	1
+bị thất bại	0	1
+bị tiêu diệt	0	1
+bị tình nghi	0	1
+bị từ	0	1
+bị từ bỏ	0	1
+bị vắt kiệt	0	1
+bị vứt bỏ	0	1
+bia	1	0
+biến đổi không ngừng	0	0
+biến đổi liên tục	0	0
+biến đổi từng ngày	0	0
+biện giải	1	0
+biến hình	0	0
+biện hộ	1	0
+biết giữ gìn	1	0
+biết lưu ý	1	0
+bình phục	1	0
+bình thản	0	1
+bình tĩnh	1	0
+bổ ích	1	0
+bỏ mạng che mặt	0	0
+bỏ qua	0	1
+bơ vơ	0	1
+bốc lửa	0	1
+bọc trực	1	0
+bộc trực	1	0
+bôi nhọ	0	1
+bối rối	0	1
+bội thu	1	0
+bóng bảy	1	0
+bóng bẩy	1	0
+bóng lộn	1	0
+bóng ma	0	1
+bóng mát	1	0
+bóng nhẫy	1	0
+bóng nhoáng	1	0
+bóng râm	1	0
+bỏng rộp	0	1
+bừa bộn	0	1
+bụi	0	1
+buồn	0	1
+buồn bã	0	1
+buồn cười	1	0
+buồn đau	0	1
+buồn khổ	0	1
+buồn lòng	0	1
+buồn mửa	0	1
+buồn nản	0	1
+buồn nôn	0	1
+buồn tẻ	0	1
+buồn thảm	0	1
+bướng bỉnh	0	1
+buồng ngủ	1	0
+bứt dứt	0	1
+cả gan	1	0
+cấc láo	0	1
+cãi lộn	0	1
+cai trị	1	0
+cãi vã	0	1
+cam đoan	1	0
+cấm kị	0	1
+cặn	0	1
+căn bản	1	0
+cằn cỗi	0	1
+can đảm	1	0
+cân sức	0	0
+cản trở	0	1
+căng mọng	1	0
+căng tràn	1	0
+cạnh tranh	0	1
+cảnh tượng	1	1
+cao ngất	0	0
+cao tầng	0	0
+cấp tiến	1	0
+cắt đoạn	0	0
+cắt khúc	0	0
+cắt mẩu	0	0
+cắt nhỏ	0	0
+cáu ghét	0	1
+càu nhàu	0	1
+cấu trúc	1	0
+cay	0	1
+chậm chạp	0	1
+chăm chỉ	1	0
+chậm hiểu	0	1
+chậm tiếp thu	0	1
+chán	1	0
+chân chất	1	0
+chấn động	0	0
+chán ngán	0	1
+chắn ngang	0	1
+chán ngắt	0	1
+chân thật	1	0
+chân thực	1	0
+chân trời	1	0
+chào mừng	1	0
+chắp vá	0	1
+chất lượng cao	1	0
+chất phác	1	0
+cháy bỏng	0	0
+chạy được	1	0
+che chở	1	0
+chế độ ăn uống	1	0
+chế giễu	0	1
+chế nhạo	0	1
+chết non	0	1
+chỉ đạo	1	0
+chỉ huy	1	0
+chi phiếu khống	0	1
+chiếm đóng	1	0
+chiến đấu	0	0
+chiến lược	0	0
+chiến tranh	0	1
+chiến tranh du kích	0	1
+chiều sâu	1	0
+chín chắn	1	0
+chính chắn	1	0
+chính hãng	1	0
+chính phủ	1	0
+chính trực	1	0
+chính xác	1	0
+chính xác tuyệt đối	1	0
+chịu	0	0
+chịu đựng	0	0
+chịu trách nhiệm	1	0
+chói lọi	1	0
+chói sáng	1	0
+chói vói	0	1
+chống cự	0	1
+chóng tàn	0	1
+chống thụ thai	1	0
+chóng vánh	0	0
+chống viêm	1	0
+chớp nhoáng	1	0
+chót	0	0
+chủ lực	0	0
+Chủ tịch	1	0
+chưa bị tình nghi	1	0
+chưa cải tạo	0	1
+chưa cải thiện	0	1
+chưa cải tiến	0	1
+chua cay	0	1
+chưa chết	1	0
+chưa chín chắn	0	1
+chưa được dạy	0	1
+chưa được huấn luyện	0	1
+chưa qua tinh chế	0	1
+chưa xác định	0	1
+chúc mừng	1	0
+chúc rượu	1	0
+chùm tia	1	0
+chung chăn chung gối	1	0
+chứng chỉ	1	0
+chứng thực	1	0
+chuyên biệt	0	0
+chuyên chế	0	1
+chuyên gia	1	0
+chuyên môn	1	0
+chuyển nhượng	1	0
+chuyên quyền	0	1
+có ác tâm	0	1
+có ác ý	0	1
+có cải cách	1	0
+có chất thơ	1	0
+có chú ý	1	0
+có của ăn của để	1	0
+cô dì	1	0
+có định hướng	1	0
+có độc hại	0	1
+có đường nét	1	0
+cố gắng	1	0
+có giá trị tài ba	1	0
+có hiệu lực	1	0
+có học thức	1	0
+có hơi thở	1	0
+có kinh nghiệm	1	0
+có lòng tốt	1	0
+có năng lực	1	0
+có phúc	1	0
+có quan tâm	1	0
+có quyền lực	1	0
+có rừng	1	0
+có sức mạnh	1	0
+có sức tác động lớn	0	0
+có tay nghề	1	0
+có thật	1	0
+có thể biến đổi	0	0
+có thể chấp nhận được	1	0
+có thể định rõ	1	0
+có thể nhận ra	1	0
+có thể nhận ra được	1	0
+có thể nhận thấy	1	0
+có thể nhận thấy được	1	0
+có thể nhận thức rõ	1	0
+có thể quan sát được	1	0
+có thể tái sản xuất	1	0
+có thể thay đổi	0	0
+có thể thấy rõ	1	0
+có thể thay thế	0	0
+có thể trao đổi	1	0
+có thể trông thấy được	0	1
+có thể xác định	1	0
+có tiếng xấu	0	1
+có tính báng bổ	0	1
+có tính chất báng bổ	0	1
+có tính di truyền	0	0
+có tính người	1	0
+có tính xây dựng	1	0
+có tính xúc phạm	0	1
+có ưu thế	0	1
+có ưu thế lớn	1	0
+có uy tín	1	0
+cố vấn	1	0
+có vẻ đúng	1	0
+có vi-rút	0	1
+cởi mở	1	0
+cơn	0	1
+con gái	1	0
+còn nguyên	1	0
+con nít	0	1
+còn non nớt	0	1
+con ong	0	0
+còn sống	1	0
+công bằng	1	0
+công bình	1	0
+công khai	1	0
+công kích	0	0
+cống nạp	1	0
+cong queo	0	1
+cộng tác	1	0
+công tử bột	0	1
+cong vênh	0	1
+cốt yếu	1	0
+cũ rích	0	0
+của địch	0	1
+cứng	1	0
+cứng cỏi	1	0
+cứng nhắc	0	1
+cương lên	0	0
+cuồng tín	0	1
+đã an bài	0	0
+đã ấn định	0	0
+đã chết	0	1
+đã dành trước	0	0
+đã dạy thuần	1	0
+đã đi	0	1
+đã định	0	0
+đã định đoạt	0	0
+đã được chấp nhận	1	0
+đã được chế biến	1	0
+đã được chỉnh sửa	0	0
+đã được gia công	1	0
+đã được thành lập	1	0
+đã được thay đổi	0	0
+đã được thiết lập	1	0
+đã được xử lí	1	0
+đã gia công	1	0
+đã hoàn thành	1	0
+đã mất	0	1
+đa phu	0	1
+đã thuần hoá	1	0
+đã xác định	1	0
+đã xong	1	0
+đại biểu	1	0
+đại diện	1	0
+đại khái	0	1
+đại sứ	1	0
+đại tá	1	0
+đẫm lệ	0	1
+đẫm nước mắt	0	1
+đàm phán	1	0
+đàn anh	1	0
+dân chủ	1	0
+dân dã	0	0
+dẫn đầu	1	0
+dạn dày	1	0
+đần độn	0	1
+đáng buồn	0	1
+đáng ca ngợi	1	0
+đắng cay	0	1
+đáng coi trọng	1	0
+đang đe dọa	0	0
+đáng khâm phục	1	0
+đáng kính	1	0
+đáng kính trọng	1	0
+đáng nể phục	1	0
+đáng nhớ	1	0
+đang phát triển	1	0
+đáng phục	1	0
+đáng tin	1	0
+đáng tin tưởng	1	0
+đáng tôn kính	1	0
+đáng tôn sùng	1	0
+đáng tôn trọng	1	0
+đáng tự hào	1	0
+đáng vị nể	1	0
+đáng yêu	1	0
+đánh	0	1
+danh giá	1	0
+dành riêng	0	0
+đanh thép	0	0
+đánh thức	1	0
+đạo đức giả	0	1
+đảo ngược	0	0
+dập khuôn	0	1
+đạt được	1	0
+đau	0	1
+đau đớn	0	1
+đầu óc bã đậu	0	1
+đau ốm	0	1
+đau thương	0	1
+đầy âu lo	0	1
+đầy bất ngờ	0	0
+đầy bụi bẩn	0	1
+đầy cỏ dại	0	1
+dày đặc	0	0
+dày dạn	1	0
+dầy dạn	1	0
+đầy lo âu	0	1
+đầy lo lắng	0	1
+đầy nghị lực	1	0
+đầy nhiệt huyết	1	0
+đầy sự sống	1	0
+đầy thi vị	1	0
+đầy vi khuẩn	0	1
+đầy vi trùng	0	1
+đề bạt	1	0
+dễ bị gạt	0	1
+dễ bị lợi dụng	0	1
+dễ bị lừa gạt	0	1
+dễ bị mua chuộc	0	1
+dễ biến dạng	0	0
+dễ dao động	0	1
+dễ dạy bảo	1	0
+dễ đến gần	1	0
+dễ gần gũi	1	0
+đê hèn	0	1
+dễ hiểu	1	0
+dễ hối lộ	0	1
+dễ hợp tác	1	0
+dễ làm quen	1	0
+dễ lọt qua	0	0
+đê mạt	0	1
+dễ mến	1	0
+dễ nghe	1	0
+dễ nhìn	1	0
+dễ nói	1	0
+dễ sợ	0	1
+dễ thay đổi	0	0
+dễ thua,	0	1
+dễ thương	1	0
+dễ tiếp cận	1	0
+dễ tiêu	1	0
+dễ tiêu hoá	1	0
+dễ tin người	0	1
+dễ xúc động	0	0
+đề xướng cuộc cải cách	1	0
+đen đủi	0	1
+đen kịt	0	1
+đen như gỗ mun	0	1
+đen như than	0	1
+đen tối	0	0
+dẻo dai	1	0
+đẹp	1	0
+đẹp tươi	1	0
+đĩ	0	1
+di căn	0	1
+dí dỏm	1	0
+dị thể	0	0
+dị thường	0	1
+di trú	0	0
+đi vắng	0	1
+địch thủ	0	1
+điềm đạm	1	0
+điềm nhiên	1	0
+điên khùng	0	1
+điên lên	0	1
+diện quần áo	0	0
+điên rồ	0	1
+điếng người	0	0
+diệu kỳ	1	0
+điêu luyện	1	0
+đỉnh	1	0
+dìu dắt	1	0
+dịu êm	1	0
+dịu nhẹ	1	0
+đồ	0	1
+đỏ	1	0
+dơ bẩn	0	1
+Độ bền	1	0
+đô đốc	1	0
+đố kị	0	1
+dở người	0	1
+đơ ra	0	1
+đờ ra	0	1
+độc nhất	1	0
+độc tố	0	1
+đợi	0	1
+đổi chác	1	0
+dồi dào	1	0
+đối kháng	0	1
+đói meo	0	1
+dối trá	0	1
+đồi truỵ	0	1
+độn	0	1
+dồn ép	0	1
+đơn giản	0	0
+đớn hèn	0	1
+dồn nén	0	1
+dọn quang	1	0
+đóng băng	0	0
+đồng chí	1	0
+động lực	1	0
+đồng minh	1	0
+dốt	0	1
+dốt nát	0	1
+du dương	1	0
+đủ khả năng	1	0
+đủ năng lực	1	0
+đừ ra	0	1
+dự trữ	1	0
+đua tranh	0	1
+đức độ	1	0
+đức hạnh	1	0
+đui mù	0	1
+dúm dó	0	1
+đúng đắn	1	0
+đúng điệu	1	0
+đủng đỉnh	1	0
+đúng kiểu	1	0
+đứng nhất	1	0
+đúng sự thực	1	0
+đúng với hiến pháp	1	0
+được bảo quản	1	0
+được bảo toàn	1	0
+được bổ nhiệm	0	0
+được cảm thông	1	0
+được chạm khắc	0	0
+được chạm trổ	0	0
+được chỉ định	0	0
+được chia sẻ	1	0
+được công nhận	1	0
+được định hướng	1	0
+được đồng cảm	1	0
+được gìn giữ	1	0
+được gội sạch	1	0
+được gột sach	1	0
+được hưởng phúc	1	0
+được khắc	0	0
+được làm sạch	1	0
+được lọc	1	0
+được lòng dân	1	0
+được mến	1	0
+được mến chuộng	1	0
+được miễn	1	0
+được nấu	0	0
+được nể phục	1	0
+được nể trọng	1	0
+được nguyên vẹn	1	0
+được rửa sạch	1	0
+được sẻ chia	1	0
+được sơn	0	0
+được tạc	0	0
+được tắm sạch	1	0
+được thông cảm	1	0
+được thúc đẩy	1	0
+được thương	1	0
+được tin cẩn	1	0
+được tin cậy	1	0
+được tin tưởng	1	0
+được toàn vẹn	1	0
+được trang bị	1	0
+được ưa chuộng	1	0
+được uỷ quyền	1	0
+được vẹn nguyên	1	0
+được vị nể	1	0
+được yêu	1	0
+được yêu dấu	1	0
+được yêu mến	1	0
+được yêu quý	1	0
+được yêu thích	1	0
+được yêu thương	1	0
+dưới cấp	0	0
+dứt khoát	1	0
+duyên	1	0
+e sợ	0	1
+êm ả	1	0
+êm tai	1	0
+ẻo lả	0	1
+gái điếm	0	1
+gàn dở	0	1
+ganh	0	1
+ganh tị	0	1
+gánh trách nhiệm	1	0
+gấp rút	0	1
+gây cảm hứng	1	0
+gày đét	0	1
+gầy đét	0	1
+gầy guộc	0	1
+gây sốt	0	0
+gây tổn thương	0	1
+ghen	0	1
+ghen tị	0	1
+ghen tuông	0	1
+ghi chép	1	0
+giả dối	0	1
+giả nghĩa	0	1
+giả nhân	0	1
+giả trá	0	1
+giá trị thấp	0	1
+giác quan	1	0
+giai cấp dưới	0	1
+giải nhất	1	0
+giải phẫu	0	0
+giải tỏa	1	0
+giải trí	1	0
+Giám đốc	1	0
+giám hộ	1	0
+giảm xuống	0	1
+gian ác	0	1
+giản đơn	0	0
+gian nan	0	1
+gian tà	0	1
+giao cấu được	0	0
+giáo chủ	1	0
+giáo đoàn	1	0
+giao hàng	1	0
+giao hợp được	0	0
+giao kèo	1	0
+giao tiếp	1	0
+giao ước	1	0
+giáo viên	1	0
+giật gân	1	0
+giật mình	0	1
+giàu kinh nghiệm	1	0
+giàu lòng trắc ẩn	1	0
+giàu tình cảm	1	0
+giàu tình thương	1	0
+giỏi	1	0
+giỏi nhạc	1	0
+giỏi tay nghề	1	0
+giới thiệu	1	0
+giống bò	0	1
+giống như máy	0	0
+giữ nhà	1	0
+giường đá	1	0
+gửi gắm	1	0
+gượng ép	0	1
+gượng gạo	0	1
+há mở	0	0
+hà tằn hà tiện	0	1
+hà tiện	0	1
+hạ tiện	0	1
+hắc ám	0	1
+hài	0	0
+hãi	0	1
+hài hước	1	0
+hai mang	0	1
+hàm ẩn	0	0
+ham đọc sách	1	0
+ham hố	0	1
+hám lợi	0	1
+ham thích	0	0
+hàm ý	0	0
+hạng chót	0	1
+hao	0	1
+hào hoa	1	0
+hào hứng	1	0
+hào nhoáng	0	0
+hao tổn	0	1
+hậu đậu	0	1
+hậu vệ	1	0
+hay chiều theo	0	0
+hay gắt	0	0
+hay ghen	0	1
+hay giãi bày tâm sự	0	0
+hay ho	0	1
+hay khôi hài	1	0
+hay mè nheo	0	1
+hay mơ mộng	1	0
+hay mộng mơ	1	0
+hay nuông chiều	0	0
+hay thay đổi	0	0
+hay thổ lộ tâm tình	0	0
+hay tin cậy	0	1
+hay tin người	1	0
+hay tưởng tượng	1	0
+hé	0	0
+hề	0	0
+hé mở	0	0
+hên	1	0
+hèn hạ	0	1
+hèn nhát	0	1
+hết lòng	1	0
+hiếm	1	0
+hiện đại	1	0
+Hiền nhân	1	0
+hiện thực	1	0
+hiền triết	1	0
+hiệp định	1	0
+hiệp ước	1	0
+hiểu biết	1	0
+hình thành	1	0
+hở hang	0	1
+hờ hững	0	1
+hỗ trợ	1	0
+hoà bình	0	0
+hoà đồng	1	0
+hoa hợp	1	0
+hoa râm	0	1
+hoàn hảo	1	0
+hoan hỉ	1	0
+hoàn lại	1	0
+hoàn toàn đúng	1	0
+hoàn toàn vô ý	0	1
+hoàn trả	1	0
+hoảng	0	1
+hoang dã	0	0
+Hoàng hôn	1	0
+hoảng loạn	0	1
+hoạt hình	1	0
+hói	0	1
+hối hận	0	1
+hời hợt	0	1
+hôi mốc	0	1
+hơi ngọt	1	0
+hồi sức	1	0
+hối tiếc	0	1
+hội tụ	1	0
+hóm	1	0
+hóm hỉnh	1	0
+hôn	1	0
+hơn hẳn	1	0
+hổn hển	0	1
+hỗn láo	0	1
+hơn mức bình thường	1	0
+hơn người	1	0
+hỗn xược	0	1
+hợp logic	1	0
+hợp lý	1	0
+hợp mốt	1	0
+hợp nhãn	1	0
+hợp tác	1	0
+hợp với	1	0
+hợp xướng	1	0
+hợp ý	1	0
+hư hỏng	0	1
+hùng dũng	1	0
+hững hờ	0	1
+hướng dẫn	1	0
+hữu dụng	1	0
+hữu ích	1	0
+hữu năng	1	0
+huỷ diệt	0	1
+huỷ hoại	0	1
+huyền thoại	0	0
+ích kỷ	0	1
+kê đơn	0	0
+kẻ tám lạng người nửa cân	0	0
+kém	0	1
+keo cú	0	1
+keo kiết	0	1
+kết cấu	1	0
+kết hợp	1	0
+kết hợp chặt chẽ	1	0
+khả ái	1	0
+khả bại	0	1
+khả biến	0	0
+khá giàu	1	0
+khả kính	1	0
+khả tín	1	0
+khác thường	0	1
+khai trương	1	0
+khăm	0	1
+khan hiếm	0	1
+khằng định	1	0
+kháng nấm	1	0
+khắp thế giới	1	0
+khích động	0	1
+khiếm nhã	0	1
+khiêm nhường	1	0
+khiếm tốn	1	0
+khiếp	0	1
+khiêu chiến	0	1
+khinh bỉ	0	1
+khinh thường	0	1
+khô cằn	0	1
+khó chan hoà	0	1
+khó gần	0	1
+khó hiểu	0	1
+khô khan	0	1
+khờ khạo	0	0
+khó lường	0	1
+khó thấy	0	1
+khó thở	0	1
+khó xử	0	1
+khoả thân	0	0
+khoa trương	0	1
+khoái lạc	1	0
+khoan khoái	1	0
+khoan thai	1	0
+khóc lóc	0	1
+khoe khoang	1	1
+khởi đầu	1	0
+khôi hài	1	0
+khởi nghĩa	0	0
+khôi ngô	1	0
+khối u	0	1
+khôn ngoan	1	0
+không ái quốc	0	1
+không anh linh	0	1
+không bằng phẳng	0	1
+không bắt buộc	0	0
+không bền lòng	0	1
+không bền vững	0	1
+không bị biến chất	1	0
+không bị chiếm	1	0
+không bị chinh phục	1	0
+không bị chọc tức	1	0
+không bị hạn chế	1	0
+không bị hư hỏng	1	0
+không bị nghiện	1	0
+không bị nhiễm bẩn	1	0
+không bị rút cạn	1	0
+không bị rút hết	1	0
+không bị suy đồi	1	0
+không bị táo bón	1	0
+không bị tháo hết	1	0
+không bị trấn áp	1	0
+không cả quyết	0	1
+không cân	0	1
+không cân sức	0	1
+không cầu kì	0	0
+không cầu kỳ	0	0
+không chậm trễ	1	0
+không chân thật	0	1
+không chân tình	0	1
+không che đậy	0	1
+không che giấu	0	1
+không chỉ rõ	0	1
+không chịu được	0	0
+không chịu nổi	0	0
+không cho phép	0	1
+không chọc tức	1	0
+không chú ý	0	1
+không có hiệu lực	0	1
+không có hiệu lực pháp lí	0	1
+không có kế hoạch	0	1
+không có khả năng	0	1
+không có kịch bản	0	0
+không có mắt	0	0
+không có mùi vị	0	1
+không có năng lực	0	1
+không có năng suất	0	1
+không có phép tắc	0	1
+không có quai hàm	0	1
+không có sẵn	0	1
+không có tên tuổi	0	1
+không có thiện ý	0	1
+không có tiếng tăm	0	1
+không có trái	0	1
+không có trí thức	0	1
+không có vị	0	1
+không cuống	1	0
+không đăng kí hộ khẩu	0	1
+không đăng kí hộ tịch	0	1
+không đáng tin	0	1
+không đáng tin cậy	0	1
+không dành riêng	0	0
+không đáy	0	1
+không dễ bị lừa	1	0
+không dễ cảm động	0	0
+không dễ gãy	1	0
+không dễ vỡ	1	0
+không dễ xúc cảm	0	0
+không dễ xúc động	0	0
+không đến nơi đến chốn	0	1
+không dính	0	1
+không định rõ	0	1
+không đối xứng	0	1
+không đủ	0	1
+không đủ tiêu chuẩn	0	1
+không đủ tư cách pháp lí	0	1
+không dức hạnh	0	1
+không đứng dắn	0	1
+không đúng lề lối	0	1
+không được cấp vốn	0	1
+không được chỉ rõ	0	1
+không được chính thức xác minh	0	1
+không được chứng nhận	0	1
+không được chứng thực	0	1
+không được định rõ	0	1
+không được ghi rõ	0	1
+không được giác ngộ	0	1
+không được khai sáng	0	1
+không được làm sáng tỏ	0	1
+không được lát đá	0	0
+không được mở mắt	0	1
+không được nói rõ	0	1
+không dứt điểm	0	1
+không dứt khoát	0	1
+không ép buộc	0	0
+không ghi rõ	0	1
+không gì có thể phá vỡ	1	0
+không giải thích được	0	1
+không giao động	1	0
+không gọn gàng	0	1
+không hề bối rối	1	0
+không hề nao núng	1	0
+không hiện đại	0	1
+không hiệu lực	0	1
+không hộ khẩu	0	1
+không hổ thẹn	1	0
+không hộ tịch	0	1
+không hối cải	0	1
+không hồn	0	1
+không hợp lý	0	1
+không hợp thời	0	1
+không kết nối	0	1
+không khách quan	0	1
+không khó tính	1	0
+không khôn khéo	0	1
+không khôn thiêng	0	1
+không kịch bản	0	0
+không kiên quyết	0	1
+không kín đáo	0	1
+không linh thiêng	0	1
+không lo	1	0
+khổng lồ	0	0
+không lo sợ	1	0
+không may	0	1
+không mới mẻ	0	1
+không muốn	0	1
+không năng suất	0	1
+không nao núng	1	0
+không ngăn nắp	0	1
+không ngang sức	0	1
+không ngang tài	0	1
+không ngang tài ngang sức	0	1
+không nghi ngờ	1	0
+không ngừng nghỉ	0	0
+không nhà cửa	0	1
+không nhẵn	0	1
+không nhiễm bẩn	1	0
+không nhu mì	0	1
+không nói rõ	0	1
+không phải lối	0	1
+không phân biệt chủng tộc	1	0
+không phép tắc	0	1
+không phô trương	1	0
+không phù hợp	0	1
+không quan tâm đến người khác	0	1
+không quan trọng	0	1
+không ra gì	0	1
+không rõ	0	1
+không sạch sẽ	0	1
+không sẵn	0	1
+không sẵn có	0	1
+không sẵn sàng	0	1
+không sáng tỏ	0	1
+không sợ sệt	1	0
+không suy tính trước	0	1
+không tề chỉnh	0	1
+không tế nhị	0	1
+không thấm	0	0
+không thành thật	0	1
+không thật	0	1
+không thật thà	0	1
+không thể	0	1
+không thể chấp nhận được	0	0
+không thể chịu đựng	0	0
+không thể chịu đựng nổi	0	0
+không thể chùi bỏ	1	0
+không thể có được	0	1
+không thể dựa vào được	0	1
+không thể dung tha	0	1
+không thể dung thứ	0	1
+không thể giải thích	0	1
+không thể giải thích được	0	1
+không thể giữ	0	1
+không thể hủy diệt	1	0
+không thể khắc phục	0	1
+không thể làm nguôi được	0	1
+không thể lí giải	0	1
+không thể nghi ngờ được	1	0
+không thể phá vỡ	1	0
+không thể tha thứ	0	1
+không thể thanh toán	0	1
+không thể thay đổi được	1	0
+không thể tin cậy được	0	1
+không thể xảy ra	0	1
+không theo kịch bản	0	0
+không theo tuần hoàn	0	0
+không thích đáng	0	1
+không thiêng	0	1
+không thú vị	0	1
+không thuận tiện	0	1
+không thuỳ mị	0	1
+không tiện lợi	0	1
+không tiết hạnh	0	1
+không tin cậy	0	1
+không tin tưởng	0	1
+không tinh	0	1
+không trinh bạch	0	1
+không trong sạch	0	1
+không trung nghĩa	0	1
+không trung thành	0	1
+không tương đương	0	1
+không văn minh	0	1
+không vâng lời	0	1
+không vui	0	1
+không vui lòng	0	1
+không vững chắc	0	1
+không vướng bận	1	0
+không vượt qua được	0	1
+không xấu hổ	1	0
+không xúc động	0	1
+không yên ổn	0	1
+không yêu nước	0	1
+khuất	0	1
+khuất tất	0	1
+khuấy động	1	0
+khuếch đại	0	1
+khuếch tán	0	1
+Khuyến cáo	1	0
+khuyết điểm	0	1
+kĩ càng	1	0
+kì cục	0	1
+kĩ lưỡng	1	0
+kì quái	0	0
+kì vĩ	1	0
+kiểm lại	1	0
+kiểm tra	1	0
+kiên cố	1	0
+kiên quyết	1	0
+kiên tâm	1	0
+kiên trì	1	0
+kiệt lực	0	1
+kiệt quệ	0	1
+kiệt sức	0	1
+kiệt tác	1	0
+kiêu hãnh	1	0
+kim cương	1	0
+kinh khiếp	0	1
+kinh nghiệm	1	0
+kỳ dị	0	1
+ký kết	1	0
+kỹ lưỡng	1	0
+kỳ quái	0	0
+ký sự	1	0
+lá mặt lá trái	0	1
+la rầy	0	1
+lạc	0	1
+lạc đường	0	1
+lạc lối	0	1
+làm chứng	1	0
+làm đau đớn	0	1
+làm đẹp thêm	1	0
+làm dơ	0	1
+làm giảm giá trị	0	1
+làm khiếp sợ	0	1
+lấm lem	0	1
+làm lo sợ	0	1
+làm mủi lòng	1	0
+làm nản lòng	0	1
+làm nhục	0	1
+làm nhụt chí	0	1
+lạm phát	0	1
+làm phiền	0	1
+lắm rừng	1	0
+làm sạch	1	0
+làm say sưa	1	0
+làm tổn thương	0	1
+làm trọn	1	0
+làm vừa ý	1	0
+làm vui lòng	1	0
+làm xong	1	0
+làm yếu đi	0	1
+lang băm	0	1
+lặng lẽ	1	0
+lặng người	0	0
+lặng người đi	0	0
+lang thang	0	0
+lảng tránh	0	1
+lạnh cứng	0	1
+lãnh đạm	0	1
+lành lặn	1	0
+lành mạnh	1	0
+lạnh mạnh	1	0
+lão khoa	0	1
+láo xược	0	1
+lạt lẽo	0	1
+láu lỉnh	0	1
+lâu năm	1	0
+lầy nhầy,	0	1
+lẹ	1	0
+lễ nghi	1	0
+lí thú	1	0
+lịch thiệp	1	0
+liên kết	1	0
+liên lạc	1	0
+liên minh	1	0
+liều lĩnh	1	0
+lính canh	1	0
+lính gác	1	0
+lo	0	1
+lo âu	0	1
+lố bịch	0	1
+lơ đãng	0	1
+lơ đễnh	0	1
+lo lắng bứt rứt	0	1
+lộ liễu	0	1
+lơ mơ	0	1
+loạn luân	0	1
+loanh quanh	0	1
+lời nguyền	0	1
+lời nói châm chọc	0	1
+lời nói chua cay	0	1
+lời thề	1	0
+lời tuyên bố	1	0
+lớn	1	0
+lộn ngược	0	0
+lộn tùng phèo	0	1
+lộn xộn	0	1
+long lanh	1	0
+lóng ngóng	0	1
+lồng nhiệt	1	0
+lòng trung thành	1	0
+lùng thùng	0	1
+lụng thụng	0	1
+lúng túng	0	1
+luồn cúi	0	1
+Lương	1	0
+lưỡng cư	0	1
+lường được	1	0
+lương tâm	1	0
+lương thiện	1	0
+lưỡng tính	0	1
+lưu niên	1	0
+lý thú	1	0
+lý thuyết suông	0	1
+ma cà bông	0	1
+ma tà	0	1
+mắc cỡ	0	1
+mai mỉa	0	1
+mang lời	1	0
+mang lợi	1	0
+mang mầm bệnh	0	1
+mang tai mang tiếng	0	1
+mang tai tiếng	0	1
+mang tiếng	0	1
+mang tính chất báng bổ	0	1
+mang vi-rút	0	1
+mảnh dẻ mảnh mai	1	0
+mát	1	0
+mát mẻ	1	0
+mát rượi	1	0
+mất tích	0	1
+mất tiếng	0	1
+mặt trơ trán bóng	0	1
+mau chóng	1	0
+màu mỡ	1	0
+mầu mỡ	1	0
+may rủi	0	1
+may theo đơn đặt hàng	0	0
+may theo số đo	0	0
+may theo yêu cầu	0	0
+mềm yếu	0	1
+mến chuộng	1	0
+méo xẹo	0	1
+mệt	0	1
+mệt bở hơi tai	0	1
+mệt lả	0	1
+mệt lử	0	1
+mệt mỏi	0	1
+mệt rã	0	1
+mệt rã rời	0	1
+mỉa	0	1
+mỉa mai	0	1
+miễn cưỡng	0	1
+miễn khỏi	1	0
+mỉm cười	1	0
+minh bạch	1	0
+mỡ màng	1	0
+mờ mờ	0	1
+mô phỏng	0	0
+mở rộng	1	0
+mờ tối	0	1
+mộc mạc	1	0
+mới	1	0
+mới mẻ	1	0
+mới mở	1	0
+mới thành lập	1	0
+mối tình	1	0
+mòn	0	1
+mong chờ	1	0
+một chín một mười	0	0
+một chồng	1	0
+một lòng một dạ	1	0
+một mặt	0	1
+mọt sách	1	0
+một vợ	1	0
+mù chữ	0	1
+mù mắt	0	1
+mù mịt	0	1
+mực	0	1
+mục lục	1	0
+mùi mẫn	0	0
+mừng	1	0
+mừng rỡ	1	0
+mừng vui	1	0
+muộn	0	1
+muốn ói	0	1
+muốn tìm biết	0	0
+muốn tìm hiểu	0	0
+mưu mô	0	1
+nam châm	1	0
+nản	1	0
+nản lòng	0	1
+nặng nề	0	1
+nặng thêm	0	1
+nặng trĩu	0	1
+nảy nở	1	0
+né	0	1
+nêm chặt	0	0
+nên thơ	1	0
+nét đẹp	1	0
+ngã lòng	0	1
+ngẫm nghĩ	0	0
+ngắn hủn	0	1
+ngân phiếu khống	0	1
+ngắn tun hủn	0	1
+ngang bướng	0	1
+ngang hàng	0	0
+ngang ngạnh	0	1
+ngang ngược	0	1
+ngang sức	0	0
+ngang tài	0	0
+ngang tài ngang sức	0	0
+ngạt	0	1
+ngắt kết nối	0	1
+ngây ngô	0	1
+ngay thẳng	1	0
+ngay thật	1	0
+nghẹn	0	1
+nghẹn cứng	0	1
+nghẹn ứ	0	1
+nghèo tài nguyên	0	1
+nghèo xác	0	1
+nghèo xác nghèo xơ	0	1
+nghèo xác xơ	0	1
+nghèo xơ nghèo xác	0	1
+nghỉ	0	1
+nghiền ngẫm	0	0
+ngớ ngẩn	0	1
+ngộ nghĩnh	1	0
+ngồ ngộ	1	0
+ngỗ ngược	0	1
+ngoài dự kiến	0	1
+ngoại quốc	0	0
+ngoan	1	0
+ngoan ngoãn	1	0
+ngọc	1	0
+ngốc nghếch	0	1
+ngon	1	0
+ngon ăn	1	0
+ngon lành	1	0
+ngòn ngọt	1	0
+ngọt	0	0
+ngột	0	1
+ngọt dịu	1	0
+ngọt lịm	1	0
+ngọt lừ	1	0
+ngọt lự	1	0
+ngọt sắc	1	0
+ngu	0	1
+ngu như bò	0	1
+ngu như lợn	0	1
+ngu xi	0	1
+ngụ ý	0	0
+ngược nhau	0	1
+người bảo vệ	1	0
+người chỉ bảo	1	0
+người chỉ huy	1	0
+người đại diện sứ giả	1	0
+người lãnh đạo	1	0
+người tạo ra	1	0
+nguồn tin cậy	1	0
+nguy cấp	0	1
+nguy cơ tuyệt chủng	0	1
+nguyên vẹn	1	0
+nhẫn nại	1	0
+nhăn nhúm	0	1
+nhân phẩm	1	0
+nhận ra được	1	0
+nhận thấy được	1	0
+nhặng xị	0	1
+nhão	0	1
+nhạo báng	0	1
+nhập nhằng	0	1
+nhát	0	1
+nhát chết	0	1
+nhất quán	1	0
+nhẹ bồng	0	0
+nhẹ bỗng	0	0
+nhẹ bổng	0	0
+nhẹ hẫng	0	0
+nhẹ tếch	0	0
+nhẹ thênh	0	0
+nhiệt tâm	1	0
+nhiệt thành	1	0
+nhiều chồng	0	1
+nhiều thông tin	0	0
+nho nhã	1	0
+nhớ nhà	0	1
+nhớ quê hương	0	1
+nhọc	0	1
+nhọc nhằn	0	1
+như chết	1	0
+như máy	0	0
+như thật	1	0
+nhuận tràng	1	0
+nhức	0	1
+nhức nhối	0	1
+nhún nhường	1	0
+nhược điểm	0	1
+nhượng bộ	1	0
+niềm kiêu hãnh	1	1
+niềm nở	1	0
+niêm phong	1	0
+niềm vui sướng nhất	1	0
+nổi bật	1	0
+nổi danh	1	0
+nổi dậy	0	0
+nơi nương tựa	1	0
+nơi sinh	0	1
+nón bảo hộ	1	0
+non choèn choẹt	0	1
+non choét	0	1
+non choẹt	0	1
+nóng	0	1
+nồng cháy	0	0
+nồng nàn	1	0
+nóng nảy	0	1
+nóng nực	0	1
+nốt mụn	0	1
+nuôi dưỡng	1	0
+nuối tiếc	0	1
+nuột	1	0
+núp mình	1	0
+ở tu viện	0	0
+oai	1	0
+oải	0	1
+oán hận	0	1
+oi ả	0	1
+ốm	0	1
+ốm đau	0	1
+ôn tồn	1	0
+phá huỷ	0	1
+phá hủy dần	0	1
+phẩm giá	1	0
+phân	0	1
+phân bố rộng khắp	1	0
+phân bố rộng rãi	1	0
+phấn chấn	1	0
+phản đề	0	1
+phần đông	1	0
+phản kháng	0	1
+phân phối	1	0
+phần thưởng	1	0
+pháo đài	1	0
+phật lòng	0	1
+phát sợ	0	1
+phát triển chưa đầy đủ	0	1
+phê phán	0	1
+phi nhân tính	0	1
+phì nhiêu	1	0
+phi phàm	1	0
+phí phạm	0	1
+phiêu lưu	0	0
+phờ phạc	0	1
+phó thác	1	0
+phơi phới	1	0
+phởn	1	0
+phong cách riêng	0	0
+phóng đại	0	1
+phóng khoáng	1	0
+phóng túng	0	1
+phớt lờ	0	1
+phớt tỉnh	0	1
+phù hợp	1	0
+phụ trợ	1	0
+phúc đức	1	0
+phục hồi	1	0
+phung phá	0	1
+phuù hợp	1	0
+quá cố	0	1
+quá đáng	0	1
+quá khích	0	1
+qua loa	0	1
+quá ngọt ngào	0	0
+quả quyết	1	0
+quả thực	1	0
+quản gia	1	0
+quan lại	1	0
+quản lý	1	0
+quán quân	1	0
+quẫn trí	0	1
+quản trị	1	0
+quan trọng	1	0
+quang cảnh	1	1
+quát tháo	0	1
+quạu quọ	0	1
+quây	0	0
+quây kín	0	0
+quây quanh	0	0
+quê kệch	0	1
+quê mùa	0	1
+quen thân	1	0
+quỉ quyệt	0	1
+quở mắng	0	1
+quốc tế	1	0
+quý ngài	1	0
+quý ông	1	0
+quyền lực	1	0
+quyền năng	1	0
+quyết đoán	1	0
+rã rời	0	1
+rắc rối	0	1
+rác rưởi	0	1
+rầm cầu	1	0
+rắn	1	0
+răn bảo	1	0
+rạng ngời	1	0
+ranh mãnh	0	1
+rào	0	0
+rào chắn	0	1
+rào kín	0	0
+rào quanh	0	0
+rất xấu	0	1
+rầu	0	1
+rầu rĩ	0	1
+rên rỉ	0	1
+rờ bến	1	0
+rõ ràng	1	0
+rối bời	0	1
+rối bù	0	1
+rối trí	0	1
+rơi xuống	0	1
+rộng	1	0
+rủi	0	1
+run	0	1
+run rẩy	0	1
+run run	0	1
+run sợ	0	1
+rừng rực	0	0
+sa ngã	0	1
+sẩm tối	0	1
+san sóc	1	0
+sáng bừng	1	0
+sáng ngời	1	0
+sáng rõ	1	0
+sáng rực	1	0
+sáng sủa	1	0
+sáng suốt	1	0
+sang trọng	1	0
+sành điệu	1	0
+sáo rỗng	0	1
+sắp xảy ra	0	0
+sát thực	1	0
+sầu	0	1
+sau cùng	0	0
+sâu sắc	1	0
+sâu xa	1	0
+say rượu	0	1
+séc khống	0	1
+siêng năng	1	0
+siêu nhiên	1	0
+sinh động	1	0
+sinh lãi	1	0
+sinh quán	0	1
+sinh thiết	0	1
+sợ	0	1
+số đỏ	1	0
+sở hữu	1	0
+sơ khai	0	0
+sợ sệt	0	1
+sở thích	1	0
+sờn	0	1
+sống bầy đàn	0	0
+song sinh	1	0
+sống thành bầy	0	0
+sống thành đàn	0	0
+sốt dẻo	0	0
+sự ân xá	1	0
+sự bảo đảm	1	0
+sự bạo hành	0	1
+sự chiếm đoạt	0	1
+sự đối lập	0	1
+sự hành hung	0	1
+sự hòa hợp	1	0
+sự hủy bỏ	0	1
+sự khéo léo	1	0
+sự khôn ngoan	1	0
+sự lầm lạc	0	1
+sự lục đục	0	1
+sự mâu thuẫn	0	1
+sự phản đối	0	1
+sự phù hợp	1	0
+sự thật	1	0
+sư tử	1	0
+sự tước đoạt	0	1
+sức bền	1	0
+sức mạnh	1	0
+sững sờ	0	1
+sung túc	1	0
+suôn sẻ	1	0
+sướng	1	0
+sướng vui	1	0
+sướt mướt	0	1
+sụt sùi	0	1
+suy giảm	0	1
+suy ngẫm	0	0
+suy nghĩ	0	0
+suy thoái	0	1
+tạ ơn	1	0
+tác giả	1	0
+tái tạo được	1	0
+tai tiếng	0	1
+tạm	0	1
+tâm đầu ý hợp	1	0
+tâm huyết	1	0
+tẩm ngẩm tầm ngầm	0	0
+tầm nhìn	1	0
+tầm thường	0	0
+tăm tối	0	1
+tận tâm	1	0
+tằn tiện	0	1
+tận tình	1	0
+tận tuỵ	1	0
+tận tụy	1	0
+tăng cường	1	0
+tăng dần lên	1	0
+tầng lớp dưới	0	1
+tang quyến	0	1
+táng tận lương tâm	0	1
+tang tóc	0	1
+táo bón	0	1
+tắt thở	0	1
+tệ bạc phụ bạc	0	1
+tẻ nhạt	0	1
+thác loạn	0	1
+thách thức	0	1
+thái bình	1	0
+thái quá	0	1
+thâm độc	0	1
+thám hiểm	1	0
+thấm hút	0	0
+tham lam	0	1
+thâm sâu	0	0
+thảm sầu	0	1
+thăm thẳm	0	1
+thảm thương	0	1
+thâm thuý	0	0
+thẩm tra	1	0
+than	0	1
+thân ái	1	0
+thần hồn nhát thần tính	0	1
+thản nhiên	0	1
+thán phục	1	0
+thân quen	1	0
+than thở	0	1
+thận trọng	1	0
+than vãn	0	1
+thẳng thắn	1	0
+thanh bình	1	0
+thành cặp	0	0
+thanh khiết	1	0
+thanh lịch	1	0
+thanh liêm	1	0
+thanh lọc	1	0
+thành lũy	1	0
+thanh nhã	1	0
+thành thật	1	0
+thanh thế	1	0
+thành thực	1	0
+thanh tĩnh	1	0
+thấp hèn	0	1
+thấp hơn	0	1
+thấp kém	0	1
+thấp nhất	0	1
+thất bại	0	1
+thất học	0	1
+thật lòng	1	0
+thật tâm	1	0
+thay đổi không ngừng	0	0
+thay đổi liên tục	0	0
+thay đổi từng ngày	0	0
+thay thế được	0	0
+Thầy tu	1	0
+thề	1	0
+thê lương	0	1
+the thé	0	1
+thèm khát	0	1
+thèm muốn	0	1
+theo cặp	0	0
+theo hiến pháp	1	0
+theo lệ	0	0
+theo luật	1	0
+theo truyền thống	1	0
+thét mắng	0	1
+thích	1	0
+thích cầu nguyện	0	0
+thích hoa mĩ	1	0
+thích hoạt động	1	0
+thích hợp	1	0
+thích hợp nhất	1	0
+thích khoe khoang	0	1
+thích mắt	1	0
+thích nhạc	1	0
+thích sang trọng	1	0
+thiên vị	1	0
+thiếu	0	1
+thiểu cẩn trọng	0	1
+thiếu chủ động	0	1
+thiếu hiểu biết	0	1
+thiếu khéo léo	0	1
+thiếu khôn khéo	0	1
+thiếu khôn ngoan	0	1
+thiếu kĩ năng	0	1
+thiếu kiên nhẫn	0	1
+thiếu kiến thức	0	1
+thiếu lễ độ	0	1
+thiểu não	0	1
+thiếu niên	1	1
+thiếu sinh khí	0	1
+thiếu sót	0	1
+thiếu sức sống	0	1
+thiếu thẩm mỹ	0	1
+thiếu tư cách	0	1
+thiếu văn minh	0	1
+thiếu ý thức	0	1
+thỉnh cầu	1	0
+thính giác	0	1
+thọ	1	0
+thờ cúng	0	0
+thở hổn hển	0	1
+thờ ơ	0	1
+thờ phụng	0	0
+thô tháo	0	1
+thoả hiệp	0	0
+thỏa ước	1	0
+thoải mái	1	0
+thoát ra	1	0
+thoát trách nhiệm	0	1
+thoát y	0	0
+thói quen	1	0
+thời sự	1	0
+thơm tho	1	0
+thống đốc	1	0
+thong dong	1	0
+thông thái rởm	0	1
+thụ động	0	1
+thư thả	1	0
+thủ tục	1	0
+thừa	0	1
+thua trận	0	1
+thuận cả hai tay	0	0
+thuận mắt	1	0
+thực dụng	0	1
+thực hành	0	0
+thực lòng	1	0
+thức ra	1	0
+thực tâm	1	0
+thực tế	1	0
+thức tỉnh	1	0
+thuộc giáo dục	1	0
+thuộc về ma quỷ	0	1
+thượng lưu	1	0
+thương người	1	0
+tị nạnh	0	1
+tia laze	1	0
+tích cực	1	0
+tiếc	0	1
+tiếc nuối	0	1
+tiến cử	1	0
+tiện dụng	1	0
+tiên sinh	1	0
+tiến về phía trước	0	0
+tiếng quát tháo	0	1
+tiếng xấu	0	1
+tiết nghĩa	1	0
+tiêu biểu	0	0
+tiêu hao	0	1
+tiêu hoá được	1	0
+tiêu khiển	1	0
+tiêu tốn	0	1
+tin chắc	1	0
+tin được	1	0
+tin tức	1	0
+tính di truyền	0	0
+tính nhanh	1	0
+tinh quái	0	1
+tinh thần thể thao	1	0
+tính toán	1	0
+to	1	0
+to béo	0	1
+tô điểm	1	0
+toả sáng	1	0
+toàn lực	0	0
+toàn sức	0	0
+toàn tâm	1	0
+toàn tâm toàn ý	1	0
+toàn vẹn	1	0
+toàn ý	1	0
+tóc bạc	0	1
+tối cao	1	0
+tội lỗi	0	1
+tới lui	0	1
+tối om	0	1
+tối ưu	1	0
+tốn	0	1
+tôn giáo	0	0
+tôn kính	1	0
+tốt đẹp	1	0
+tốt tính	1	0
+trả lại	1	0
+trái đạo lý	0	1
+trái nhau	0	1
+trái với phép tắc	0	1
+trái với thiên nhiên	0	1
+trái với tục lệ	0	1
+trầm cảm	0	1
+trầm tính	1	0
+trận đánh	0	1
+tràn trề sức sống	1	0
+trần trụi	0	1
+trang nhã	1	0
+trắng như phấn	1	0
+tránh	0	1
+tranh cãi	0	1
+tranh đua	0	1
+tránh xa	0	1
+trao đổi	1	0
+tráo trở	0	1
+trật tự	1	0
+trẻ con	0	0
+trẻ thơ	1	0
+trẻ tuổi	0	0
+trệch đi	1	0
+trơ lì	0	1
+trở nên xấu đi	0	1
+trời cho	0	0
+trơn bóng	0	0
+tròn đầy	1	0
+trông còn mới	1	0
+trọng đại	1	0
+trông nom	1	0
+trống rỗng	0	1
+trú ẩn	1	0
+trù bị	0	0
+trụ cột	1	0
+trung kiên	1	0
+trung nghĩa	1	0
+trung tâm	1	0
+trung thành	1	0
+trung thực	1	0
+trúng tuyển	1	0
+trường cửu	1	0
+truy nã	0	1
+truyền	1	0
+truyền thống	1	0
+truyền thuyết	0	0
+từ bi	1	0
+tự cao tự đại	0	1
+tự điển	1	0
+tự động	0	0
+tự phát	0	0
+tự sinh	0	0
+tự tin	1	0
+tuấn tú	1	0
+tục	0	1
+tục tĩu	0	1
+túng thiếu	0	1
+tươi cười	1	0
+tươi đẹp	1	0
+tươi mát	1	0
+tươi rói	1	0
+tươi roi rói	1	0
+tươi tắn	1	0
+tươi tốt	1	0
+tươi vui	1	0
+tương lai	0	0
+tương thích	1	0
+túp lều	1	0
+tuyên thệ	1	0
+tuyệt	1	0
+u ám	0	1
+u buồn	0	0
+u bướu	0	1
+ủ rột	0	1
+ủ rũ	0	1
+u sầu	0	1
+ưa chuộng	1	0
+ưa mắt	1	0
+ưa nhìn	1	0
+uốn khúc	0	1
+ưu tú	1	0
+uy	1	0
+ủy mị	0	1
+uy nghiêm	1	0
+ủy nhiệm	1	0
+uytín	1	0
+vá víu	0	1
+vận động không ngừng	0	0
+vận động liên tục	0	0
+vận hành được	1	0
+vận may	1	0
+văn vẻ	0	1
+van xin	0	1
+vắng mặt	0	1
+vây	0	0
+vây kín	0	0
+vây quanh	0	0
+về nhất	1	0
+vệ sĩ	1	0
+vẻ ta đây	0	1
+vẹn nguyên	1	0
+vị kỉ	0	1
+vị kỷ	0	1
+viện cớ	0	1
+viện hàn lâm	1	0
+vô đạo đức	0	1
+vô giá trị	0	1
+vô học thức	0	1
+vô hồn	0	1
+vô hy vọng	0	1
+vô lí	0	1
+vô nguyên tắc	0	1
+vô phép	0	1
+vô tác dụng	0	1
+vô tài	0	1
+vô thừa nhận	0	1
+vô tình	0	1
+vô ưu	1	0
+vụ lợi	0	1
+vua chúa	0	0
+vui	1	0
+vui chơi	1	0
+vui đùa	1	0
+vui lòng	1	0
+vui nhộn	1	0
+vui sướng	1	0
+vui tai	1	0
+vui tánh	1	0
+vui tươi	1	0
+vui vẻ	1	0
+vững chắc	1	0
+vung phí	0	1
+vửng vàng	1	0
+vụng về	0	1
+vượt mức cho phép	1	0
+vượt trội	1	0
+vứt đi	0	1
+xa cách	0	1
+xa lánh	0	1
+xà nhà	1	0
+xa rời thực tế	0	1
+xác đáng	1	0
+xấc láo	0	1
+xác minh	1	0
+xác nhận	1	0
+xâm lấn	0	1
+xâm phạm	0	1
+xầm xì	0	1
+xanh tốt	1	0
+xanh tươi	1	0
+xấu	0	1
+xấu đi	0	1
+xấu tính	0	0
+xấu xí	0	1
+xe cấp cứu	0	0
+xế chiều	1	0
+xe cứu thương	0	0
+xéo	0	1
+xét xử	0	1
+xiêu	1	0
+xinh	1	0
+xinh đẹp	1	0
+xinh xắn	1	0
+xinh xinh	1	0
+xoa bóp	1	0
+xoay ngược	0	0
+xót xa	0	1
+xuềnh xoàng	0	1
+xui	0	1
+xun xoe bợ đỡ	0	1
+xun xoe khúm núm	0	1
+xứng đáng	1	0
+xưng tội	0	0
+xuôi ngược	0	1
+ý thức được	1	0
+ý tưởng	0	0
+yên ả	1	0
+yên lành	1	0
+yên lòng	1	0
+yên tĩnh	1	0
+yếu đuối	0	1
+yêu hoà bình	1	0
+yêu nhạc	1	0
+yêu nước	1	0
+3D	0	0
+a xít	0	1
+âm	0	1
+âm ấm	1	0
+âm chuẩn	1	0
+am hiểu	1	0
+ẩm ướt	0	0
+amoniac	0	0
+ẩn danh	0	0
+ẩn dật	0	0
+ẩn nấp	0	1
+an tâm	0	0
+ấn tượng	1	0
+ân xá	1	0
+Ăn xin	0	1
+anh dũng	1	0
+anh hùng ca	1	0
+áo dài trắng	0	0
+ảo diệu	0	0
+ảo thuật	0	1
+áp chót	0	0
+át	1	0
+ẩu	0	1
+axit	0	0
+ba lê	1	0
+bá tước	1	0
+bá tước phu nhân	1	0
+bác ai	1	0
+bác ái	1	0
+bác bỏ	0	1
+bác sĩ da liễu	0	0
+bạch tuộc	0	0
+bãi bỏ	0	1
+bãi lầy	0	1
+bài phê bình	1	0
+bại sản	0	1
+bài tập về nhà	0	0
+bám	0	1
+băm	0	1
+bám chắc	0	1
+bận bịu	0	1
+ban bồi thẩm	0	0
+bản chính	1	0
+bán đấu giá	0	0
+bạn đọc	0	0
+ban giám khảo	0	0
+bần hàn	0	1
+bắn lên	0	0
+bản nháp	0	0
+bản quyền	0	0
+ban sơ	0	0
+bần tiện	0	1
+bàn tính	0	0
+bắn tung tóe	0	0
+bảng	0	0
+bằng cấp	1	0
+băng giá	0	1
+bằng lòng	1	0
+bang quơ	0	1
+bằng sáng chế	1	0
+bằng vàng	1	0
+bánh pho mát	0	1
+bào chữa	1	0
+bao gồm	1	0
+báo hiệu	1	0
+bảo lãnh	0	0
+bảo quản	0	0
+bảo thủ	0	1
+báo tin	0	0
+bảo trì	0	0
+báo trước	1	0
+bấp bênh	0	1
+bập bùng	0	0
+bất biến	0	0
+bất cẩn	0	1
+bất cân xứng	0	1
+bắt chức	0	1
+bắt chước	1	0
+bất đồng	0	1
+bất hợp lí	0	1
+bất hợp lý	0	1
+bất hủ	0	1
+bất khả	0	1
+bất khả biến	0	0
+bất khả kháng	0	1
+bất lực	0	1
+bất minh	0	1
+bất ngờ	0	0
+bất nhã	0	1
+bầu	0	0
+bầu bí	0	1
+bẫy	0	1
+bày đàn	1	0
+bê bết	0	1
+bé bỏng	1	0
+bền	1	0
+bền vững	1	0
+bênh vực	1	0
+béo lùn	0	1
+bép xép	0	1
+bị bắt giữ	0	1
+bị cấm	0	1
+bị cản	0	1
+bị cắt ngắn	0	0
+bị chạm đến	0	0
+bị chắn	0	1
+bị chặn	0	1
+bị đảo lộn	0	1
+bị điên	0	1
+bị ép buộc	0	1
+bi hài	0	1
+bị hoãn	0	1
+bí mật	0	0
+bị mất trí	0	1
+bị mòn	0	1
+bị ngăn	0	1
+bị nhiễm bẩn	0	1
+bị nhiễm độc	0	1
+bỉ ổi	0	1
+bị phá rối	0	1
+bị phá sản	0	1
+bị rút ngắn	0	1
+bị tắc	0	1
+bị thần kinh	0	1
+bị thiệt thòi	0	1
+bi thương	0	1
+bị thương	0	1
+bị vỡ nợ	0	1
+biển	1	0
+biến chất	0	0
+biến cố	0	1
+biện luận	0	0
+biện pháp	1	0
+biết điều	0	0
+biết luân lí	1	0
+biết ơn	1	0
+biết phải trái	1	0
+biếu	1	0
+biểu diễn	1	0
+bình chân	1	0
+bố	0	0
+bờ biển	0	0
+bỏ dở	0	1
+bỏ giày ra	0	0
+bỏ giữa chừng	0	1
+bỏ hoang	0	1
+bỏ không	0	0
+bỏ lửng	0	1
+bố mẹ	0	0
+bổ nhiệm	1	0
+bơ phờ	0	1
+bổ trợ	1	0
+bỏ trống	0	0
+bồn tắm	1	0
+bông đùa	0	0
+boỏ	0	1
+bộp chộp	0	1
+bớt đi	0	0
+bụ bẫm	1	0
+bừa bãi	0	1
+búa bổ	0	1
+bụi bẩn	0	1
+bủn xỉn	0	1
+bướng	0	1
+buông thả	0	1
+buốt	0	1
+cá biệt	0	1
+cả thẹn	0	1
+cách biệt	0	1
+cải cách	1	0
+cái mới	1	0
+cải thiện	1	0
+cải tổ	1	0
+câm	0	1
+cấm	0	1
+cạm bẫy	0	1
+cấm chỉ	0	1
+cảm động	0	0
+căm ghét	0	1
+cắn	0	1
+cân bằng	1	0
+cần cù	1	0
+cần mẫn	1	0
+càn rở	0	1
+cẩn trọng	1	0
+căng thẳng	0	1
+cảnh báo	0	0
+cảnh giác	0	0
+cao	1	0
+cao cấp	1	0
+cao lớn	1	0
+cao ốc	1	0
+cấp cao	1	0
+cặp đôi	1	0
+cấp trên	1	0
+cắt bớt	0	1
+câu kết	0	1
+cấu kết	0	1
+cau lại	0	1
+câu nệ	0	1
+cha mẹ	0	0
+chắc	1	0
+chắc khoẻ	1	0
+chắc nịch	1	0
+châm biếm	0	1
+chăm chú	1	0
+chậm lớn	0	1
+chậm phát triển	0	1
+chần chờ	0	1
+chần chừ	0	1
+chăn thả	1	0
+chào tạm biệt	0	0
+chấp nhận	1	0
+chấp nhận được	1	0
+chấp thuận	1	0
+chắt bóp	0	0
+chất đầy	0	0
+chật hẹp	0	1
+chặt khít	0	0
+chạy suốt	0	0
+chạy theo mốt	0	1
+chế độ phong kiến	0	1
+che giấu	0	1
+chểnh mảng	0	1
+chép lại	0	1
+chi li	0	0
+chia đôi	0	1
+chia phần	1	0
+chia rẽ	0	1
+chiếm giữ	1	0
+chiều chuộng	1	0
+chín	1	0
+chỉnh đốn	1	0
+chỉnh lưu	1	0
+chính quyền	0	0
+chỉnh tề	1	0
+chính xác nhất	1	0
+chịu được	1	0
+chịu lửa	1	0
+chịu lực	1	0
+cho	1	0
+chờ	0	0
+cho không	0	0
+choáng váng	0	0
+chói	0	0
+chối bỏ	0	0
+chống	1	0
+chống cách mạng	0	1
+chồng chéo	0	1
+chống đạn	1	0
+chống đỡ	1	0
+chóng mặt	0	0
+chống phá	0	1
+chống phá cách mạng	0	1
+chủ chốt	1	0
+chủ đạo	1	0
+chủ quan	0	1
+chú trọng	1	0
+chú ý	1	0
+chủ yếu	1	0
+chưa cắt	0	0
+chưa chạm	0	0
+chưa chạm đến	0	0
+chưa chạm tới	0	0
+chua chát	0	0
+chưa có tuyên thệ	0	1
+chưa đả động	0	0
+chưa đả động đến	0	0
+chưa đả động tới	0	0
+chưa đầy đủ	0	1
+chưa đề cập	0	0
+chưa đề cập đến	0	0
+chưa đề cập tới	0	0
+chưa động	0	0
+chưa động đến	0	0
+chưa động tới	0	0
+chưa đụng đến	0	0
+chưa được chế biến	0	0
+chưa được chữa trị	0	1
+chưa được điều trị	0	1
+chưa được tuyên thệ	0	1
+chưa được xác minh	0	0
+chưa được xử lí	0	0
+chưa giải quyết được	0	1
+chưa hoàn thành	0	1
+chưa hoàn thiện	0	1
+chưa kết hôn	0	0
+chưa khô	0	0
+chưa kiệt	0	0
+chưa lành	0	1
+chưa lập gia đình	0	0
+chưa lí giải	0	1
+chưa lí giải được	0	1
+chưa mó đến	0	0
+chưa ổn định	0	1
+chưa qua chế biến	0	0
+chưa qua xử lí	0	0
+chưa ra đời	0	1
+chưa sinh	0	0
+chưa sờ đến	0	0
+chưa sử dụng	0	0
+chưa tan	0	0
+chưa tinh chế	0	0
+chưa trả lời	0	1
+chưa trả lời được	0	1
+chưa từng ai biết	0	0
+chưa từng có	0	0
+chưa tuyên thệ	0	1
+chuẩn bị trước	0	0
+chung	0	0
+chưng cất	1	0
+chừng mực	1	0
+chứng nhận	0	0
+chướng	0	1
+chướng mắt	0	1
+chuyển tiếp	0	0
+chuyện trò	1	0
+cơ bản	1	0
+có bầu	0	0
+có bơ	1	0
+có bụng	1	0
+có bụng mỡ	0	1
+có bụng phệ	0	1
+có bụng to	0	1
+có chân	1	0
+cố chấp	0	1
+có chiều hướng tiêu cực	0	1
+có chửa	0	1
+có chừng đỗi	1	0
+có chừng mực	1	0
+có công hiệu	1	0
+có danh tiếng	1	0
+có đạo đức	1	0
+có đệm	1	0
+có điều kiện	1	0
+cố định	0	0
+có độc	0	1
+có đức	1	0
+có ga	0	0
+có giá	1	0
+có giá trị	1	0
+cô gọn	0	0
+có hiệu quả	1	0
+cố hữu	0	1
+có ích	1	0
+có ích lợi	1	0
+có kết quả	1	0
+có khả năng phóng xạ	1	0
+có khả năng sinh sản	0	0
+có lãi	1	0
+có lễ độ	1	0
+có lí	1	0
+cổ lỗ	0	1
+cổ lỗ sĩ	0	1
+có lợi	1	0
+có lợi ích	1	0
+có lòng vị tha	1	0
+có lưng tựa	0	0
+có lý	1	0
+có mang	0	0
+có mặt	1	0
+có mầu tím	0	0
+có mủ	0	1
+có mức độ	1	0
+có nhiều hoa	1	0
+có phẩm hạnh	1	0
+có phân cành	0	0
+có phân nhánh	0	0
+có quyền tối cao	0	0
+cơ sở	0	0
+có sự sống	1	0
+có sửa đổi	0	0
+có sức hút	1	0
+có sức thu hút	1	0
+có tác dụng	1	0
+có tài	1	0
+có tài hùng biện	1	0
+có tài xử trí	1	0
+có thai	0	0
+có thành kiến	0	1
+có thanh thế	1	0
+có thể bị tổn thương	0	0
+có thể chứng minh	1	0
+có thể đổi chác	0	0
+có thể giải quyết	1	0
+có thể giải thích	1	0
+có thể hỏng	0	1
+có thế lực	1	0
+có thể nghe được	1	0
+có thể nhận biết	0	1
+có thiện chí	1	0
+có tiếng	1	0
+có tính chất lang băm	0	1
+có tính chất mở	0	0
+có tính chất tích cực	1	0
+có tính chất tiêu cực	0	1
+có tính di trú	0	0
+có tính phóng xạ	0	1
+có tính thăm dò	0	0
+có tinh thần	1	0
+có tinh thần thể thao	0	0
+có tính tích cực	1	0
+có tri giác	1	0
+có trình độ	1	0
+cổ truyền	1	0
+có tư tưởng khoáng đạt	1	0
+có tư tưởng phóng khoáng	1	0
+có tư tưởng rộng rãi	1	0
+có uy	1	0
+có uy lực	1	0
+có uy thế	1	0
+có vẻ hợp lí	1	0
+có vẻ mới	1	0
+có vũ trang	0	0
+cổ xưa	0	1
+còm cõi	0	1
+còn dang dở	0	1
+còn đầy	1	0
+còn dùng được	1	0
+cơn lốc	0	0
+con mụ tinh quái	0	1
+còn ngon	1	0
+con người	1	0
+còn tốt	1	0
+còn trinh	0	0
+còn tươi	0	0
+cộng đồng	1	0
+công nghệ	0	0
+công tước	1	0
+cống vật	1	0
+công việc	1	0
+côngbằng	1	0
+cót két	0	1
+cọt kẹt	0	1
+cột trụ	1	0
+cũ	0	1
+cù lần	0	1
+cự phách	1	0
+cư trú	1	0
+Cục cưng	1	0
+Cục đá	1	0
+cực đoan	0	1
+cực gần	0	0
+cực khổ	0	1
+cực kì gần	0	0
+cực kỳ gần	0	0
+cực nhọc	0	1
+cực thừa thãi	0	1
+cùn	0	1
+cung cấp	1	0
+cùng đẳng cấp	0	0
+cứng đầu	0	1
+cứng đơ	0	1
+cứng lên	0	0
+cứng như đá	0	1
+cuộc thi	1	0
+cuối cùng	0	0
+cuồng	0	0
+cuồng nhiệt	1	0
+cứu tế	1	0
+cứu trợ	1	0
+đa dạng	1	0
+đã được chứng thực	0	0
+đã được định rõ	1	0
+đã được xác định	1	0
+đã được xác nhận	0	0
+đã được xử lý	0	0
+đã hết hạn	0	1
+da không trắng	0	0
+đã mất đi	0	0
+đa năng	1	0
+đa ngôn ngữ	1	0
+đã qua xử lí	0	0
+đã qua xử lý	0	0
+đa tài	1	0
+đặc sắc	0	0
+đặc sệt	0	0
+đặc trưng	1	0
+đặc trưng riêng	0	0
+dại	0	1
+dại dột	0	1
+đài tưởng niệm	1	0
+đảm bảo	0	0
+đâm chồi	1	0
+dám làm	1	0
+đầm lầy	0	1
+dám nghĩ dám làm	1	0
+đãm nước	0	1
+đằm thắm	1	0
+đàm thoại	1	0
+đần	0	1
+dần dần	0	0
+đắn đo	0	1
+dàn xếp	1	0
+dâng	1	0
+dang dở	0	1
+đáng ghê tởm	0	1
+đáng ghi nhớ	1	0
+đáng giá	1	0
+đáng lo	0	0
+đáng lo ngại	0	0
+đang lớn	0	0
+đang lớn lên	0	0
+đáng nể	1	0
+đáng nghi	0	1
+đáng ngờ	0	1
+đáng quý trọng	1	0
+đáng thương	0	0
+đáng tiếc	0	0
+đáng tôn quý	1	0
+đáng trọng	1	0
+danh dự	1	0
+đánh nhau	0	0
+danh vọng	1	0
+đạo đức	1	0
+đạo đức chủ nghĩa	1	0
+đáp lại	1	0
+đầu bò	0	1
+đầu đất	0	1
+đấu nhau	0	0
+đầu tiên	1	0
+dạy	1	0
+đầy biến cố	0	1
+đầy biến động	0	1
+đầy biệt xứ	0	1
+đầy đặn	1	0
+dạy dỗ	1	0
+đầy đủ	0	0
+day dứt	0	1
+đầy năng lực	1	0
+đầy năng lượng	1	0
+đầy phẫn nộ	0	0
+đầy sao	0	0
+đầy thịnh nộ	0	0
+đầy tinh thần	1	0
+đầy ý nghĩa	1	0
+dễ bằng lòng	0	1
+dễ bảo	1	0
+để bảo vệ	1	0
+dễ bị choáng	0	1
+dễ bị kích động dễ bị kích thích	0	1
+dể bị kích thích	1	0
+dễ bị sốc	0	1
+dễ bị tổn thương	0	0
+dễ biến đổi	0	1
+dễ biết	1	0
+dễ cảm	1	0
+dễ cáu	0	1
+dễ cáu gắt	0	1
+dễ chan hoà	1	0
+dễ chịu	1	0
+dễ choáng	0	1
+đề cử	1	0
+dễ dàng	1	0
+dễ dạy	1	0
+dễ dùng	1	0
+dễ hài lòng	0	1
+dễ hơn	1	0
+dễ kích thích	0	1
+đẻ non	0	1
+dễ sai khiến	1	0
+dễ sốc	0	1
+dễ sử dụng	1	0
+dễ thấm qua	0	0
+dễ thẩm thấu	0	0
+đê tiện	0	1
+dễ tin	0	0
+dễ tính	1	0
+dễ uốn cong	0	0
+đệm	1	0
+đến chậm	0	1
+đến gần	0	0
+đến muộn	0	1
+đến trễ	0	1
+dềnh dang	0	1
+dềnh dàng	0	1
+đẹp đẽ	1	0
+đẹp hơn	1	0
+đều nhau	1	0
+dị biệt	0	1
+di động	0	0
+đi du lịch	1	0
+đi lên	1	0
+địa vị	1	0
+đích thật	0	0
+điếc	0	1
+điếc đặc	0	1
+điếc lòi	0	1
+điêều tra	1	0
+điềm tĩnh	1	0
+điểm yếu	0	1
+điên	0	1
+điên điên	0	1
+điển hình	1	0
+diễn thuyết	1	0
+diển văn	1	0
+điệp khúc	1	0
+điệu bộ	1	0
+điều chỉnh	1	0
+điều độ	1	0
+điêu khắc	1	0
+định kỳ	0	0
+định lý	0	0
+dính mỡ	0	0
+định trước	0	0
+dịu dàng	1	0
+dịu đi	0	0
+dịu nhẹ đi	0	0
+dở	0	1
+đỏ bừng	0	0
+dở chừng	0	1
+đồ cổ	1	0
+dò dẫm	0	0
+độ dẫn	1	0
+dở dang	0	1
+dơ dáy	0	1
+dơ duốc	0	1
+đỡ được	1	0
+đỏ gay	0	0
+đồ giả	0	1
+đỏ lựng	0	0
+độ lượng	1	0
+đỏ mặt	0	1
+đo ván	1	0
+đọa đày	0	1
+đoan trang	1	0
+đốc công	1	0
+độc đoán	0	1
+độc giả	1	0
+độc hại	0	1
+đọc hiểu	1	0
+đối cách	0	1
+đợi chờ	0	0
+đối đầu	0	0
+đòi hỏi	0	1
+đói khí	0	1
+đói không khí	0	1
+dội lại	0	0
+đối lập	0	1
+đội mũ trùm đầu	0	0
+đồi tệ	0	1
+đổi thay	0	0
+đơn cực	0	1
+dọn dẹp	1	0
+đôn hậu	1	0
+đơn nhất	1	0
+đơn sơ	0	0
+đông	0	1
+đồng cảm	1	0
+Dòng chảy	1	0
+đồng cỏ	1	0
+đồng đều	1	0
+đông đúc	0	0
+đóng góp	1	0
+đồng loã	0	1
+đồng lòng	1	0
+động lòng	1	0
+đông nghịt	0	0
+đồng tâm	1	0
+đồng thuận	0	0
+đồng tính nữ	0	1
+động viên	0	0
+đồng ý	1	0
+đột xuất	0	0
+dư dật	1	0
+đủ đầy	1	0
+đủ điều kiện	1	0
+dự định	0	0
+du hành	1	0
+dự kiến	0	0
+đủ sống	1	0
+dư thừa	0	1
+dư vị	0	1
+dụng cụ	1	0
+đứng đắn	1	0
+dung hợp	1	0
+dũng khí	1	0
+đúng mốt	0	0
+đúng mùa	0	0
+đúng mực	1	0
+dùng sai	0	1
+dùng trước	0	0
+đứng trước	1	0
+được bảo đảm	1	0
+được bưng bít	0	1
+được cải tiến	1	0
+được cất giấu	0	1
+được cắt ngắn	0	0
+được cắt tỉa	0	0
+được chạm đến	0	0
+được che đậy	0	1
+được che giấu	0	1
+được chôn giấu	0	1
+được chuộng hơn	0	0
+được cưng hơn	0	0
+được cứu trợ	1	0
+được đảm bảo	1	0
+được dạy	0	0
+được đề nghị	0	0
+được định trước	0	0
+được động đến	0	0
+được giải cứu	1	0
+được giải thoát	1	0
+được giấu giếm	0	1
+được huấn luyện	0	0
+được kính nể	1	0
+được miễn trừ	0	1
+được mọi người ưa thích	1	0
+được nhân dân yêu mến	1	0
+được phân bổ	0	0
+được phân chia	0	0
+được phân ra	0	0
+được phân tách	0	0
+được quý trọng	1	0
+được ra lệnh	0	0
+được rút ngắn	0	1
+được thắt chặt	0	0
+được tỉa	0	0
+được tỉa tót	0	0
+được tôn trọng	1	0
+được ưu tiên	0	0
+được yên	1	0
+được yêu cầu	0	0
+được yêu hơn	0	0
+được yêu quý hơn	0	0
+đường bệ	1	0
+đường ray	0	0
+đứt	0	1
+duũng khí	1	0
+duyên dáng	1	0
+duyệt lại	1	0
+ê chề	0	1
+e thẹn	0	1
+êm	1	0
+êm ái	1	0
+êm dịu	1	0
+ép chặt	1	0
+gải quyết	1	0
+gấm thêu	1	0
+gạn	1	0
+gắn bó	1	0
+gần cuối	0	0
+gan góc	1	0
+gắn kết	1	0
+ganh gổ	0	1
+gấp	0	0
+gập ghềnh	0	1
+gauche	0	1
+gày	0	1
+gầy	0	1
+gây ấn tượng sâu sắc	1	0
+gày còm	0	1
+gày dơ xương	0	1
+gầy dơ xương	0	1
+gay go	0	1
+gày gò	0	1
+gày guộc	0	1
+gây tai nạn	0	1
+gầy trơ xương	0	1
+gây xúc động	1	0
+ghê	0	1
+ghẻ lạnh	0	1
+ghen ghét	0	1
+ghi lại	1	0
+giá băng	0	1
+gia hạn	1	0
+giá lạnh	0	1
+giá trị	1	0
+già yếu	0	1
+giải pháp	1	0
+giải thích	1	0
+giảm	0	1
+giảm bớt	1	0
+giảm nhẹ	1	0
+giảm sút	0	1
+giảm thiểu	1	0
+gian	0	1
+giản dị	1	0
+gian khổ	0	1
+giãn tĩnh mạch	0	1
+gian truân	0	1
+giành được	1	0
+giáo hoàng	0	0
+giáo khoa	1	0
+giao thiệp	1	0
+giáp chót	0	0
+giáp cuối	0	0
+giật đầu cá vá đầu tôm	0	1
+giật gấu vá vai	0	1
+giàu sức sống	1	0
+giàu tưởng tượng	1	0
+giỏi hơn	1	0
+giống con nít	0	1
+giống hệt	1	0
+giọng khan	0	1
+giống nhau	0	0
+giống như hề	0	0
+giống như vàng	1	0
+giống trẻ con	0	1
+giữ gìn	1	0
+gồ ghề	0	1
+gốc	1	0
+gợi dục	0	0
+gọn gàng	1	0
+Góp phần	1	0
+góp vốn	1	0
+gọt giũa	1	0
+gượng	0	1
+gương mẫu	1	0
+hạ thấp	0	1
+hạch sách	0	1
+hại	0	1
+hài hoà	1	0
+hàm súc	0	0
+hạn chế bớt	0	1
+hằng ngày	0	0
+hạng nhất	1	0
+hăng say	1	0
+hành chính	0	0
+hào hển	0	1
+hào hùng	1	0
+hào quang	1	0
+hấp đẫn	1	0
+hấp tấp	0	1
+hau háu	0	0
+hầu hết	0	0
+Hầu tước	1	0
+hay bắt lỗi	0	0
+hay biến đổi	0	1
+hay cãi lẽ	0	0
+hay cãi lí	0	0
+hay cáu	0	1
+hay cáu gắt	0	1
+hay cầu nguyện	0	0
+hay đùa	0	0
+hay hay	0	0
+hay hơn	1	0
+hay nghi ngờ	0	1
+hay ngờ vực	0	1
+hay tranh cãi	0	0
+hay tranh luận	0	0
+hệ quả	0	0
+hèn kém	0	1
+hèn yếu	0	1
+héo	0	1
+hẹp hòi	0	1
+hết đát	0	1
+hết date	0	1
+hết sức sôi nổi	0	0
+hiểm ác	0	1
+hiểm nghèo	0	1
+hiềm thù	0	1
+hiến	1	0
+hiền	1	0
+hiền hậu	1	0
+hiến pháp	0	0
+hiền từ	1	0
+hiệp sĩ	1	0
+hiểu	1	0
+hiệu chỉnh	1	0
+hiếu động	0	1
+hiếu khách	1	0
+hình tượng	1	0
+Hộ gia đình	1	0
+hòa đồng	1	0
+hoà giải	0	0
+hoà hợp	1	0
+hoà hợp với	0	0
+hoà nhã	1	0
+hòa nhã	1	0
+hoà thuận	1	0
+hoài nghi	0	1
+hoãn lại	0	1
+hoàn tất	1	0
+hoang	0	1
+hoang sơ	0	0
+hoàng thân	1	0
+hoàng tử	1	0
+hoang vắng	0	0
+hoạt bát	1	0
+học	1	0
+học bạ	0	0
+học đòi	0	1
+học giả	1	0
+học nghề	0	0
+học rộng	1	0
+học việc	0	0
+học viện	1	0
+hơi ấm	1	0
+hối cải	1	0
+hói đầu	0	1
+hơi điên	0	1
+hơi khùng	0	1
+hơi ngắn	0	1
+hơi thở	0	0
+hôi thối	0	1
+hồi tưởng quá khứ	0	0
+hom hem	0	1
+hơn	1	0
+hơn cả mong đợi	1	0
+hồng hào	0	0
+hợp	0	0
+hợp đồng	0	0
+hợp lệ	1	0
+hợp lí	1	0
+hợp thời	1	0
+hợp thời trang	0	0
+hợp vệ sinh	1	0
+hư	0	1
+hư hoại	0	1
+hủ lậu	0	1
+hư mất	0	1
+hùng ca	1	0
+hùng cường	1	0
+hừng hực	0	0
+hùng mạnh	1	0
+hứng tình	0	0
+hưởng lương	0	0
+hủy bỏ	0	1
+huy chương	1	0
+huy hiệu	1	0
+huyễn tưởng	0	1
+ích kỉ	0	1
+ích lợi	1	0
+im lặng	1	0
+ít học	0	1
+ít kinh nghiệm	0	1
+ít oi	0	1
+ít ỏi	0	1
+ít xảy ra	0	0
+kẻ cướp	0	1
+kể ra	1	0
+kếch sù	1	0
+kém cỏi	0	1
+kém thuyết phục	0	1
+kềnh càng	0	1
+kẽo kẹt	0	1
+keo kiệt	0	1
+kẹp chặt	1	0
+kẹt lại	0	1
+kết ước	0	0
+kêu	0	0
+khá hơn	1	0
+kha khá	1	0
+khả kháng	1	0
+khả năng	1	0
+khả năng nói	1	0
+khả quyết	1	0
+khách sáo	0	1
+khai hoang	1	0
+khai phá	1	0
+khám phá ra	1	0
+khán giả	0	0
+khản giọng	0	1
+khẩn trương	0	0
+khẳng định	1	0
+khang khác	0	0
+khập khiễng	0	1
+khắt khe	0	1
+khen	1	0
+khéo	1	0
+khéo tay	1	0
+khí chất	1	0
+khí phách	1	0
+khích lệ	1	0
+khiêm tốn	1	0
+khinh miệt	0	1
+khó	0	1
+khó chiều	0	1
+khó chịu; hôi hám; gớm ghiếc	0	1
+khó coi	0	1
+khó điều khiển	0	1
+khó đọc	0	1
+khô hạn	0	1
+khò khè	0	1
+khó nghe	0	1
+khó quản lí	0	1
+khó tin	0	0
+khó tính	0	1
+khoan dung	1	0
+khoẻ khoắn	1	0
+khỏe mạnh	1	0
+khôi phục	1	0
+khôn	1	0
+khôn khéo	1	0
+không ăn mặc chỉnh tề	0	1
+không ăn năn	0	1
+không an tâm	0	1
+không bận	1	0
+không bằng	0	1
+không bằng nhau	0	1
+không bày vẽ	1	0
+không bè phái	0	0
+không bị ảnh hưởng	1	0
+không bị gãy	1	0
+không bị hoen ố	1	0
+không bị khiêu khích	1	0
+không bị kích động	1	0
+không bị kích thích	0	0
+không bị kiềm chế	0	1
+không bị kiểm tra	0	0
+không bi loãng ra	1	0
+không bị pha loãng	1	0
+không bị phạt	0	0
+không bị quấy rầy	1	0
+không bị rối loạn	1	0
+không bị tác động	1	0
+không bị tổn thương	1	0
+không bị trừng phạt	0	0
+không bị vỡ	1	0
+không biết	0	1
+không biết phân biệt	0	1
+không bọc	0	1
+không bồn chồn	1	0
+không cải trang	0	0
+không cấm rượu	0	0
+không cân bằng	0	1
+không căn cứ	0	1
+không cắn rứt	0	1
+không cẩn thận	0	1
+không cao	0	0
+không chải chuốt	0	1
+không cháy	1	0
+không chảy ra	0	0
+không chia bè phái	0	0
+không chính thống	0	1
+không chính xác	0	1
+không chủ đích	0	0
+không chủ ý	0	0
+không chủ yếu	0	1
+không chuyên nghiệp	0	1
+không có chữ nghĩa	0	1
+không có giá trị	0	1
+không có hại	1	0
+không có nhau thai	0	1
+không có nhiệt	0	0
+không có nhiều cây	0	0
+không có óc phán xét	0	1
+không có óc phê bình	0	1
+không có quan hệ	0	1
+không có sức thuyết phục	0	1
+không có thẩm mỹ	0	1
+không có thiện cảm	0	1
+không có thực	0	0
+không có tì vết	1	0
+không có tiếng nói	0	1
+không có tính chất khen ngợi	0	1
+không có tính quyết định	0	1
+không có tội	0	0
+không có tuyên thệ	0	1
+không có văn hoá	0	1
+không có vết	1	0
+không có ý thức	0	1
+không còn nghi ngờ gì nữa	0	0
+không còn trinh	0	1
+không đặc trưng	0	1
+không đại diện	0	1
+không đạt tiêu chuẩn	0	1
+không dễ chịu	0	1
+không dè dặt	0	1
+không dẽ dặt	0	1
+không để thăm dò	0	0
+không để thám hiểm	0	0
+không đều đặn	0	0
+không đi đến kết luận	0	1
+không điển hình	0	1
+không định trước	0	0
+không do dự	1	0
+không độ lượng	0	1
+không đổ máu	1	0
+không độc ác	1	0
+không đọc được	0	1
+không đội lốt	0	0
+không đóng dấu	0	1
+không động lòng thương	0	1
+không dự đoán trước	0	0
+không dự kiến trước	0	0
+không đủ tư cách	0	1
+không đúng hiến pháp	0	1
+không đúng kiểu	0	1
+không đúng quy cách	0	1
+không được công khai	0	1
+không được công nhận	0	1
+không được đào tạo	0	1
+không được dạy	0	1
+không đươc điều chỉnh	0	1
+không được huấn luyện	0	1
+không được nhận	0	1
+không được phép	0	1
+không được thanh toán	0	1
+không được thừa nhận	0	1
+không được tuyên thệ	0	1
+không duyên cớ	0	1
+không gấp gáp	1	0
+không gây ngạc nhiên	0	1
+không giới hạn	1	0
+không giống nhau	0	1
+không gọn	0	1
+không ham muốn	0	1
+không hào phóng	0	1
+không hay	0	1
+không hiểm độc	1	0
+không hiểu biết rộng	0	0
+không hoà đồng	0	1
+không hoàn toàn	0	1
+không học rộng	0	1
+không hoen ố	1	0
+không hối lỗi	0	1
+không hợp để diễn	0	1
+không hợp lí	0	1
+không hợp mode	0	1
+không hợp mốt	0	1
+không hợp thời trang	0	1
+không hợp với khuôn phép	0	0
+không hứng thú	0	1
+không ích kỉ	1	0
+không kể xiết	0	1
+không kêu ca	1	0
+không khéo kéo	0	1
+không khiêu khích	1	0
+không khoan dung	0	1
+không khoe khoang	1	0
+không khôn	0	1
+không khôn ngoan	0	1
+không lành nghề	0	1
+không lịch sự	0	1
+không lo lắng	1	0
+không lưỡng lự	1	0
+không lưu tâm	0	0
+không lưu tâm đến	0	0
+không mạ	0	1
+không mang tính quyết định	0	1
+không mơ ước	0	0
+không mong muốn	0	1
+không nên	0	0
+không nên làm	0	0
+không ngại	1	0
+không ngại ngùng	1	0
+không ngang bằng	0	1
+không ngang bằng nhau	0	1
+không ngang nhau	0	1
+không nghiêm túc	0	1
+không nghiện	1	0
+không ngủ	0	1
+không người	0	0
+không nguỵ trang	0	0
+không nhạy	0	1
+không nhạy bén	0	1
+không niêm phong	0	1
+không oán trách	1	0
+không phàn nàn	1	0
+không phản ứng	0	0
+không phẳng	0	1
+không phe phái	0	0
+không phủ	0	1
+không quá khó chịu	1	0
+không quả quyết	0	1
+không quen thuộc	0	1
+không quyết định	0	1
+không quyết đoán	0	1
+không quyết tâm	0	0
+không rèn	0	1
+không rõ nét	0	1
+không rõ ràng	0	1
+không rõ ràng mơ hồ	0	1
+không rối	1	0
+không rộng lượng	0	1
+không rộng rãi	0	1
+không rút gọn được	0	1
+không sẵn lòng	0	1
+không sẵn sàng tha thứ	0	1
+không sáng suốt	0	1
+không sợ	1	0
+không sợ hãi	0	1
+không sủi bong bóng	0	0
+không sứt mẻ	1	0
+không suy xét	0	1
+không tàn nhẫn	1	0
+không tan ra	0	0
+không tán thành	0	1
+không tập	0	1
+không thấm nước	0	0
+không thấm nước mưa	0	0
+không tham vọng	0	1
+không thân mật	0	1
+không than phiền	1	0
+không thân thiện	0	1
+không thận trọng	0	1
+không thành hình	0	1
+không thay đổi	0	1
+không thay thế được	0	0
+không thể cãi	1	0
+không thể chế ngự	0	1
+không thể chinh phục	0	1
+không thể đếm được	0	1
+không thể đọc được	0	1
+không thể dùng được	0	1
+không thể giải đoán được	0	1
+không thể giảm bớt	0	1
+không thể hiểu được	0	0
+không thể hình dung được	0	0
+không thể khước từ	1	0
+không thể làm được	0	1
+không thể nghĩ ra được	0	0
+không thể nguôi	0	1
+không thể nhận biết	0	1
+không thể nhận diện	0	1
+không thể nhận ra	0	1
+không thể nhượng lại	1	0
+không thể rút gọn	0	1
+không thể sang lại	1	0
+không thể thay thế	0	0
+không thể thu nhỏ lại	0	1
+không thể tiếp cận	0	1
+không thể tin được	0	0
+không thể tin nổi	0	0
+không thể tối giản	0	1
+không thể từ chối	1	0
+không thể tưởng tượng được	0	0
+không thèm khát	0	0
+không thèm muốn	0	0
+không theo hiến pháp	0	1
+không theo quy luật	0	1
+không thích ứng	0	1
+không thiết thực	0	1
+không thiết yếu	0	1
+không thổ lộ	0	1
+không thoải mái	0	1
+không thông cảm	0	1
+không thông minh	0	1
+không thông thái	0	1
+không thực tế	0	1
+không thương hại	0	1
+không thương xót	0	1
+không thường xuyên	0	0
+không tích cực	0	1
+không tiếc thương	0	1
+không tính được	0	0
+không tinh tế	0	1
+không tỉnh thức	0	1
+không toả nhiệt	0	0
+không toàn diện	0	1
+không tọc mạch	0	0
+không tốt	0	1
+không trả	0	1
+không tráng	0	1
+không trắng	0	0
+không tránh được	0	1
+không trọng yếu	0	1
+không trước sau như một	0	1
+không tư lợi	0	0
+không tuân thủ	0	1
+không tức giận	1	0
+không tuyên thệ	0	1
+không ước ao	0	0
+không ước mơ	0	0
+không uyên bác	0	1
+không vết nhơ	1	0
+không vô tư	0	1
+không vội	1	0
+không vội vã	1	0
+không vội vàng	1	0
+không vửng	0	0
+không vững vàng	0	1
+không xem xét	0	1
+không xứng	0	1
+không yên tâm	0	1
+khúm núm	0	1
+khùng	0	1
+khùng khùng	0	1
+khuy áo	1	0
+khuyến mãi	1	0
+kí	0	0
+kì ảo	0	0
+kịch bản	1	0
+kích dục	0	0
+kiếm	1	0
+kiềm chế	1	0
+kiếm được	1	0
+kiên định	1	0
+kiêu	0	1
+kiểu cách	1	0
+kiêu kì	0	1
+kim chỉ nam	1	0
+kính cẩn	1	0
+kinh dị	0	1
+kinh điển	1	0
+kinh khỉnh	0	1
+ký giả	1	0
+kỷ niệm	1	0
+kỹ thuật	1	0
+kỳ vọng	0	0
+lạ	0	0
+lạ đời	0	1
+là lạ	0	0
+lạ lùng	0	1
+la ó	0	1
+lạc đề	0	1
+lạc hậu	0	1
+lạc mất	0	1
+làm bóng	1	0
+làm cho tin chắc	0	0
+làm cho tinh khiết	1	0
+làm cho tốt hơn	1	0
+làm cho vững tâm	0	0
+làm dáng	0	0
+làm dịu	1	0
+làm đỏm	0	0
+làm giảm bớt	1	0
+làm giàu	1	0
+làm hài lòng	1	0
+làm hết sức ngạc nhiên	0	0
+làm hoảng hốt	0	0
+làm hốt hoảng	0	0
+làm kinh ngạc	0	0
+làm láng	1	0
+làm ngơ	0	1
+lảm nhảm	0	1
+làm nhẹ	1	0
+làm ra vẻ	0	0
+làm sửng sốt	0	0
+làm tăng cao lên	1	0
+làm thích nghi	1	0
+Làm thích ứng	1	0
+làm việc	1	0
+lấn lướt	0	1
+lần nữa	1	0
+láng	0	1
+lâng lâng	0	0
+lành	1	0
+lạnh buốt xương	0	1
+lãnh đạo	1	0
+lanh lảnh	0	1
+lanh lẹ	0	0
+lạnh lùng	0	1
+lạnh nhạt	0	1
+lạnh như băng	0	1
+lạnh như đá	0	0
+lanh thang	0	1
+lâu lâu một lần	0	0
+lây	0	1
+lễ độ	1	0
+lề mề	0	1
+lếch thếch	0	1
+lên cao	1	0
+lên lớp	1	0
+lên men	0	0
+les	0	1
+lesbian	0	1
+lét	0	1
+liến thoắng	0	0
+ling thiêng	1	0
+linh động	1	0
+lĩnh hội	1	0
+lĩnh hội nhanh	1	0
+lỉnh kỉnh	0	1
+linh thiêng	1	0
+linh tinh	0	1
+lờ đờ	0	1
+lơ là	0	1
+lố lăng	0	1
+lỗ mãng	0	1
+lờ mờ	0	1
+loang lổ	0	0
+lọc	1	0
+loè loẹt	1	0
+lời chứng	0	0
+lời đồn	0	1
+lợi ích	1	0
+lôi kéo	0	1
+lỗi lạc	1	0
+lời nói minh bạch	0	0
+lôi thôi	0	1
+lỗi thời	0	1
+lợi tích	1	0
+lốm đốm	0	0
+lông bông	0	1
+lòng thòng	0	1
+lũ	0	0
+lụ khụ	0	1
+lừ mờ	0	1
+lụa	1	0
+lựa chọn	1	0
+lừa dối	0	1
+lừa gạt	0	1
+lực sĩ	1	0
+lủng củng	0	1
+lừng danh	1	0
+lung lay	0	1
+lung linh	1	0
+lung tung	0	1
+lười	0	1
+lười biếng	0	1
+lười nhác	0	1
+luộm thuộm	0	1
+lưu tâm	1	0
+luyện tập	1	0
+lý thuyết	1	0
+mắc phải	0	1
+mặc sức	0	1
+mạch lạc	1	0
+mãi mãi	1	0
+mài mòn	0	1
+mẫn cảm	1	0
+mang bầu	0	0
+mang thai	0	0
+mang tính tiêu cực	0	1
+mang tính xây dựng	1	0
+mạnh	1	0
+mạnh bạo	0	1
+mạnh dạn	1	0
+mảnh dẻ	0	1
+mảnh khảnh	0	1
+mạnh khoẻ	1	0
+mãnh liệt	0	1
+mánh lới	0	1
+mập mạp	1	0
+mập mờ	0	1
+mặt bằng	0	0
+mất bình tĩnh	0	1
+mặt đối mặt	0	0
+mất kiểm soát	0	1
+mật thiết	1	0
+mát tính	1	0
+mau	1	0
+màu hồng	0	0
+mau lẹ	1	0
+màu mè	1	0
+màu tím	0	0
+mầu tím	0	0
+may đời	1	0
+máy móc	0	0
+mẹ	0	0
+mê mệt	0	1
+mềm dẻo	1	0
+mềm mại	1	0
+mềm mỏng	1	0
+mềm oặt	0	0
+mến khách	1	0
+mệt lử cò bợ	0	1
+mệt nhọc	0	1
+miêu tả	1	0
+mỡ	0	1
+mở đầu	0	0
+mơ hồ	0	1
+mở mang	1	0
+mỏ neo	1	0
+mô tả	1	0
+mơ ước	1	0
+mọc trên thân	0	0
+mới lớn	0	0
+mới nhất	1	0
+mới phát sinh	0	0
+mới tinh	1	0
+mong	0	0
+mỏng dính	0	1
+mong đợi	0	0
+mong muốn	1	0
+mỏng tang	0	1
+mỏng tanh	0	1
+một màu	0	1
+một sắc	0	1
+một vợ một chồng	1	0
+mù quáng	0	1
+mua vui	1	0
+mục nát	0	1
+mùi thơm	1	0
+nấm mồ	0	0
+nắm tay	1	0
+năng cao	1	0
+năng động	1	0
+năng lực	1	0
+nâng niu	1	0
+năng suất cao	1	0
+nặng trình trịch	0	0
+náo loạn	0	1
+nao núng	0	1
+não nùng	0	1
+nảy lửa	0	0
+né được	1	0
+nền móng	0	0
+nền tảng	1	0
+nết xấu	0	1
+nêu trên	1	0
+ngạc nhiên	0	0
+ngại	0	1
+ngắn	0	1
+ngân hàng	0	0
+ngăn lắp	1	0
+ngăn nắp	1	0
+ngắn ngủi	0	1
+ngang đồng	0	0
+ngạo nghễ	0	1
+ngáp	0	1
+ngất đi	0	1
+ngẫu nhiên	0	0
+ngậy	0	0
+ngây thơ	1	0
+nghe được	1	0
+nghệ sĩ	1	0
+nghệ thuật	1	0
+nghề y	1	0
+nghèo	0	1
+nghèo khó	0	1
+nghèo nàn	0	1
+nghèo rớt	0	1
+nghèo rớt mùng tơi	0	1
+nghi hoặc	0	1
+nghị lực	1	0
+nghi ngại	0	0
+nghi ngờ	0	1
+nghịch ngợm	0	0
+nghiêm	1	0
+nghiêm chỉnh	1	0
+nghiêm khắc	1	0
+nghiêm ngặt	1	0
+nghiêm trang	1	0
+nghiêm túc	1	0
+nghiện	0	1
+nghiên cứu	1	0
+ngộ	0	0
+ngờ nghệch	0	1
+ngờ vực	0	1
+ngoài ý muốn	0	0
+ngoạm	0	1
+ngoan cố	0	1
+ngoan cường	1	0
+ngọc thạch	1	0
+ngon ơ	1	0
+ngột ngạt	0	1
+ngữ âm	1	0
+ngu dại	0	1
+ngu đần	0	1
+ngu dốt	0	1
+ngu ngốc	0	1
+ngữ vựng	1	0
+ngựa giống	1	0
+ngược lại	0	1
+ngược với hiến pháp	0	1
+người bào chữa	0	0
+người chủ trương	0	0
+người cuồng tín	0	1
+người đi mượn	0	1
+người gan lì	1	0
+người lái	1	0
+người mẫu	0	0
+người thưa kiện	0	0
+người tin	0	0
+người vay	0	1
+người vụng về	0	1
+ngượng ngùng	0	1
+nguy nan	0	1
+nguy nga	1	0
+ngụy trang	0	0
+nguyên bản	1	0
+nguyên cáo	0	0
+nguyên khối	1	0
+nguyên thuỷ	0	0
+nguyên tử	1	0
+nhà báo	1	0
+nhà nước	0	0
+nhà thiết kế	1	0
+nhà vô địch	1	0
+nhàm chán	0	1
+nhậm chức	0	0
+nham hiểm	0	1
+nhàn	1	0
+nhăn	0	0
+nhân đức	1	0
+nhàn hạ	1	0
+nhân hậu	1	0
+nhẵn lì	1	0
+nhàn nhã	1	0
+nhân nhượng	1	0
+nhận ra	1	0
+nhàn rỗi	1	0
+nhân tài	1	0
+nhàn tênh	1	0
+nhẵn thín	0	0
+nhân từ	1	0
+nhân văn	1	0
+nhân viên kế toán	0	0
+nhặng bộ	0	1
+nhanh	1	0
+nhanh chóng	1	0
+nhanh lẹ	1	0
+nhạt	0	1
+nhạt hoen hoét	0	1
+nhạt hoét	0	1
+nhạt nhẽo	0	1
+nhạt nhoà	0	1
+nhạt như nước ốc	0	1
+nhạt phèo	0	1
+nhất quyết	0	0
+nhạt thếch	0	1
+nhất trí	1	0
+nhàu	0	0
+nhạy cảm	1	0
+nhậy cảm	1	0
+nhẹ đi	0	0
+nhễ nhại mồ hôi	0	1
+nhẹ nhàng	1	0
+nhẹ tay	1	0
+nhếch nhác	0	1
+nhem nhuốc	0	1
+nhiễm bẩn	0	1
+nhiễm độc	0	1
+nhiễm phải	0	1
+nhiếp chính	0	0
+nhiều	1	0
+nhiều chuyện	0	1
+nhiều lắm	1	0
+nhiều năng lượng	1	0
+nhiều nhất	1	0
+nhiều sao	0	0
+nhiều tình cảm	1	0
+nhiều vấn đề	0	1
+nhiều việc	0	1
+nhỉnh hơn	1	0
+nhớ dai	1	0
+nhớ lâu	1	0
+nhỏ mọn	0	1
+nhỏ nhen	0	1
+nhơ nhớp	0	1
+nhơ nhuốc	0	1
+nhớ quê	0	0
+nhỏ thó	0	0
+nhói	0	1
+nhom nhem	0	1
+nhộn	0	0
+nhộn nhịp	1	0
+như con nít	0	1
+nhu mì	1	0
+nhu nhược	0	1
+như nước	0	1
+như trẻ con	1	0
+nhún nhảy	0	0
+nhung	1	0
+nhút nhát	0	1
+nín bặt	1	0
+nín khe	1	0
+nín thin thít	1	0
+nín thít	1	0
+nịnh nọt	1	0
+nối	0	1
+nổi	0	0
+nói chuyện	1	0
+nói dịu dàng	1	0
+noi gương	1	0
+nói nhẹ nhàng	1	0
+nói nhiều	0	1
+nói như khướu	1	0
+nói thỏ thẻ	1	0
+nói trước	0	0
+non	0	1
+non kinh nghiệm	0	1
+non nớt	0	1
+non trẻ	0	0
+nóng bỏng	0	0
+nóng bức	0	1
+nông cạn	0	1
+nòng cốt	1	0
+nóng đổ mồ hôi	0	1
+nóng nẩy	0	1
+nóng như thiêu	0	1
+nóng toát mồ hôi	0	1
+nông trại	0	0
+nóng vội	0	1
+nộp	1	0
+nửa chừng	0	1
+nữa đường	0	1
+nục nịch	0	1
+nứng	0	0
+nứng tình	0	0
+nươc mắt	0	1
+nước ngoài	0	0
+nuông chiều	1	0
+ở chĩnh thức	1	0
+ở ngọn	1	0
+ô uế	0	1
+oai nghiêm	1	0
+oai phong	1	0
+oai vệ	1	0
+oi nồng	0	1
+ồn ào	0	1
+ôn hoà	1	0
+ơn huệ	1	0
+óng ánh như bạc	0	0
+ông hoàng	1	0
+ọp ẹp	0	1
+ớt cựa gà	1	0
+pha lê	1	0
+pha loãng	0	1
+phải	1	0
+phải chăng	1	0
+phải chịu	0	1
+phải lẽ	1	0
+phải phép	1	0
+phái sinh	0	0
+phải trả giá	0	1
+phàm ăn	0	1
+phạm pháp	0	1
+phân cách	0	1
+phản cách mạng	0	1
+phản đối chiến tranh	1	0
+phấn khích	0	0
+phân li	0	1
+phân minh	1	0
+phân quyền	0	0
+phân tách	0	1
+phân vân	0	1
+phao cứu đắm	1	0
+phạt	0	1
+phát hiện ra	1	0
+phát sinh	0	1
+phê duyệt	1	0
+phê phê	0	0
+phi chính thống	0	1
+phi hiện thực	0	1
+phi không gian	0	0
+phi lí	0	1
+phi lý	0	1
+phi nghĩa	0	1
+phi thẩm mĩ	0	1
+phi thẩm mỹ	0	1
+phi thực	0	1
+phi thực tế	0	1
+phiền	0	1
+phiền hà	0	1
+phổ biến	0	0
+phong cách	1	0
+phong lữ	1	0
+phong nhã	1	0
+phủ băng	0	0
+phủ đầy sương giá	0	0
+phủ sương giá	0	0
+phụ tá	1	0
+phù trợ	1	0
+phúc	1	0
+phúc đời	1	0
+phục hưng	1	0
+phức tạp	0	1
+phục tùng	1	0
+phương tiện	1	0
+quá cân bằng	1	0
+quá cũ	0	1
+quá cũ kĩ	0	1
+quá độ	0	0
+quá đỗi quen thuộc	1	0
+quá già nua	0	1
+quá khiêm tốn	0	0
+quá kĩ càng	0	0
+quá sức người	0	1
+quá thừa	0	1
+quá thừa thãi	0	1
+quái	0	0
+quái quỷ	0	0
+quân át	1	0
+quân bài chủ	0	0
+quản đốc	1	0
+quân đội	0	0
+quáng mắt	0	1
+quanh co	0	0
+quật cường	1	0
+quay cóp	0	1
+quên mình	1	0
+quý	1	0
+quý báu	1	0
+quý phái	1	0
+quỷ quyệt	0	1
+quý tộc	1	0
+quyền thế	1	0
+quyết chiến	1	0
+quyết đấu	1	0
+quyết liệt	1	0
+ra sức	1	0
+ra vẻ ta đây	1	0
+rách	0	1
+rạch ròi	1	0
+rắn cấc	1	0
+rắn chắc	1	0
+rắn độc	0	0
+rạn nứt	0	1
+ráng sức	1	0
+rảnh	0	1
+rành rành	0	0
+rảnh rỗi	1	0
+rập khuôn	0	1
+rất dư dật	1	0
+rất gần	0	0
+rất mệt	0	1
+rất mực dồi dào	1	0
+rất trẻ	1	0
+rẽ đôi	0	1
+rèn luyện	1	0
+rõ rệt	0	0
+rời đi	0	0
+rống	0	0
+rộng khắp	1	0
+rộng rãi	1	0
+rực lửa	0	0
+rùng mình	0	1
+rượu ngon	1	0
+rượu táo	1	0
+rút gọn	0	0
+rụt rè	0	1
+sa đoạ	0	1
+sa lầy	0	1
+sa sút	0	1
+sạc	1	0
+sắc bén	1	0
+sắc sảo	1	0
+sặc sỡ	1	0
+sạch ra	1	0
+sai	0	1
+sai lầm	0	1
+sai mục đích	0	1
+sẵn lòng	0	0
+sẵn sàng đối phó	0	0
+sang	1	0
+sáng dịu	0	0
+sáng dịu nhẹ	0	0
+sáng kiến	1	0
+sáng tác	1	0
+sáng tạo	1	0
+sáng tỏ	1	0
+sáng ý	1	0
+sao lãng	0	1
+sao nhàng	0	1
+sắp	0	0
+sắp đến	0	0
+sắp tìm được	0	0
+say mê quyến rũ	1	0
+sẩy thai	0	1
+sĩ diện	0	1
+siêu hình	0	1
+sinh đôi	1	0
+sinh đôi cùng trứng	1	0
+sơ cua	0	0
+sơ hở	0	1
+sơ sài	0	1
+sớm	1	0
+sớm rụng	0	0
+sống động	1	0
+sống lâu	1	0
+sống sót	1	0
+sốt	0	1
+sư âu yếm	1	0
+sự ban cho	1	0
+sự bắt chước	0	1
+sự công nhận	1	0
+sự dã man	0	1
+sự dàn trận	1	0
+sự đi lên	1	0
+sự điều tiết	1	0
+sự hăng hái	1	0
+sự kết hợp	0	0
+sự liên hợp	0	0
+sự rực rỡ	1	0
+sự sáng ngời	1	0
+sự tham dự	0	0
+sự thăm hỏi	1	0
+sự thanh toán	0	0
+sự thích nghi	1	0
+sự thông minh	1	0
+sự tiến bộ	1	0
+sự tính toán	0	0
+sự trao đổi	0	0
+sự vuốt ve	1	0
+sự xây dựng	1	0
+sửa	1	0
+sửa đổi	1	0
+sửa lại	1	0
+sức hút	1	0
+sục sôi	0	0
+sủi bong bóng	0	0
+sủi bọt	0	0
+sủi tăm	0	0
+súng cối	1	0
+sũng nước	0	1
+sùng tín	0	0
+sướng miệng	1	0
+suồng sã	0	0
+sút kém	0	1
+suy diễn	0	0
+suy đồi	0	1
+suy nhược	0	1
+suy yếu	0	1
+tả	1	0
+tác phong	1	0
+tách xa	0	1
+tài	1	0
+tài ba	1	0
+tài giỏi	1	0
+tài khéo léo	1	0
+tái nhợt	0	1
+tài sản	1	0
+tài tử	1	0
+tàm tạm	1	0
+tàn	0	1
+tan rã	0	1
+tàn tạ	0	1
+tan tác	0	1
+tàn tệ	0	1
+tán thành	1	0
+tân tiến	1	0
+tăng	1	0
+tặng	1	0
+táo bạo	1	0
+tao nhã	1	0
+táo tợn	1	0
+tập trung	1	0
+taxi	1	0
+tay ngang	0	0
+tẩy uế	1	0
+tệ	0	1
+tệ nhất	0	1
+tế nhị	1	0
+tếu	0	0
+tếu táo	0	0
+tha thiết	1	0
+tha thứ	1	0
+thác nước	1	0
+tham	0	1
+thâm	0	1
+tham ăn	0	1
+tham chiến	0	0
+thăm dò	0	0
+thâm hiểm	0	1
+thầm kín	0	0
+thẩm mỹ	1	0
+thấm thía	0	1
+thắm thiết	1	0
+thân thể	0	0
+thân tình	1	0
+thần tượng	1	0
+thăng	0	1
+thăng cấp	1	0
+thăng chúc	1	0
+thặng dư	0	1
+thẳng tính	1	0
+thanh đạm	1	0
+thành hình	1	0
+thành văn	0	0
+thành văn bản	0	0
+thạo	1	0
+thảo dược	1	0
+thất sách	0	1
+thật sự	0	0
+thâu đêm	0	1
+thay đổi	0	0
+thấy được	1	0
+thay mặt	1	0
+thấy rõ	1	0
+thế lực	1	0
+then chốt	1	0
+thẹn thùng	0	1
+theo chiều hướng tích cực	1	0
+theo luật pháp	0	0
+thep pháp luật	0	0
+thi nhân	1	0
+thị trưởng	1	0
+thích nghi	1	0
+thích thể hiện	1	0
+thích tranh cãi	0	1
+thích trò chuyện	0	0
+thích ứng	1	0
+thiển cận	0	1
+thiện chí	1	0
+thiên tài	1	0
+thiện ý	1	0
+thiệt thòi	0	1
+thiết thực	1	0
+thiếu bản sắc	0	1
+thiếu cá tính	0	1
+thiếu cân nhắc	0	1
+thiếu cẩn thận	0	1
+thiếu cẩn trọng	0	1
+thiếu chuyên môn	0	1
+thiếu hụt tài nguyên	0	1
+thiếu khí	0	1
+thiếu không khí	0	1
+thiếu lịch sự	0	1
+thiểu năng	0	1
+thiểu năng trí tuệ	0	1
+thiếu nhã nhặn	0	1
+thiếu nhiệt huyết	0	1
+thiếu nhiệt tình	0	1
+thiếu óc phê bình	0	1
+thiếu sức thuyết phục	0	1
+thiếu suy nghĩ	0	1
+thiếu tài nguyên	0	1
+thiếu tâm huyết	0	1
+thiếu thông minh	0	1
+thiếu thực tế	0	1
+thiếu tích cực	0	1
+thiếu trải nghiệm	0	1
+thiếu trật tự	0	1
+thiếu trình độ	0	1
+thiếu văn hoá	0	1
+thiếu xem xét	0	1
+thính giả	0	0
+thịnh hành	1	0
+thịnh soạn	1	0
+thỉnh thoảng	0	0
+thiu	0	1
+thô	0	0
+thô kệch	0	1
+thô mộc	0	0
+thơ ngây	0	0
+thô sơ	0	0
+thỏ thẻ	0	0
+thỏa đáng	1	0
+thỏa mãn	1	0
+thỏa thuận	0	0
+thoái chí	0	0
+thoái hóa	0	1
+thoăn thoắt	0	0
+thoáng khí	1	0
+thoát	0	0
+thoát hiểm	1	0
+thoát nạn	1	0
+thối	0	1
+thối chí	0	1
+thổi phồng	0	1
+thói rượu chè	0	1
+thói xấu	0	1
+thơm	0	0
+thơm dịu	0	0
+thơm ngát	0	0
+thơm phức	0	0
+thơm phưng phức	0	0
+thon	1	0
+thôn dã	0	0
+thong thả	1	0
+thử	0	0
+thủ công	0	0
+thu được	1	0
+thù hằn	0	1
+thu hút	1	0
+thử thách	1	0
+thư viện	1	0
+thua	0	1
+thừa mứa	0	1
+thừa thãi	0	1
+thuận	1	0
+thuận tiện	1	0
+thuần túy	1	0
+thực sự	0	0
+thức thời	1	0
+thuộc về giám mục	0	0
+thưởng	1	0
+thương cảm	1	0
+thượng hạng	1	0
+thường kỳ	0	0
+thường lệ	0	0
+thưởng ngoạn	1	0
+thượng võ	1	0
+thương xót	1	0
+thuyết trình	1	0
+tị	0	1
+ti tiện	0	1
+tích hợp	0	0
+tiệc chiêu đãi	1	0
+tiềm ẩn	0	0
+tiềm tàng	0	0
+tiến hóa	1	0
+tiện lợi	1	0
+tiền nhiệm	0	0
+tiên phong	1	0
+tiến tới	1	0
+tiếng nói rít lên	0	1
+tiếp cận	0	0
+tiếp nhận	1	0
+tiếp thu	1	0
+tiết chế	1	0
+tiết hạnh	0	0
+tiết kiệm	1	0
+tiết lộ	0	0
+tiết trinh	0	0
+tiêu cực	0	1
+tiều tuỵ	0	1
+tiêu viêm	1	0
+tìm được công ăn việc làm tốt	1	0
+tìm ra	1	0
+tin	0	0
+tín đồ	0	0
+tin đồn	0	1
+tỉnh	0	0
+tinh cất	1	0
+tinh chế	1	0
+tình cờ	0	0
+tính dẫn	1	0
+tính di trú	0	0
+tính hòa nhã	1	0
+tinh nghịch	0	0
+tính nhã nhặn	1	0
+tình nhân	1	0
+tỉnh táo	1	0
+tính toán hơn thiệt	0	1
+tinh tướng	0	1
+tinh tường	0	1
+to đùng	0	0
+to lớn	1	0
+tổ tiên	0	0
+toan tính	0	1
+tối	0	1
+tối dạ	0	1
+tối nghĩa	0	1
+tồi nhất	0	1
+tồi tàn	0	1
+tồi tệ nhất	0	1
+tới trước	1	0
+tởm	0	1
+tóm tắt	0	0
+tốn kém	0	1
+tôn lên	1	0
+tồn tại	0	0
+tôn thêm	1	0
+tông đồ	0	0
+tốt hơn	1	0
+tốt nhất	1	0
+tốt số	1	0
+trả ơn	1	0
+trái lại	0	1
+trái lẽ	0	1
+trái nghịch	0	1
+trái ngược	0	1
+trái với hiến pháp	0	1
+trái với phong tục	0	1
+trái với tập tục	0	1
+trầm ngâm	0	0
+trầm tư	0	0
+trang bị	1	0
+trang nghiêm	1	0
+trang trọng	1	0
+tranh giành	0	1
+tranh luận	0	1
+trao	1	0
+trật lất	0	1
+trau chuốt	1	0
+trau dồi	1	0
+trẻ lại	1	0
+trễ nải	0	1
+trẻ nhỏ	1	0
+trễ tràng	0	1
+trên giấy tờ	0	0
+trên hết	1	0
+trì hoãn	0	1
+tri thức	1	0
+trí tuệ	1	0
+trinh bạch	0	0
+trìu mến	1	0
+tro	0	1
+trợ cấp	1	0
+trội	1	0
+trốn	0	1
+trơn	0	1
+trọn vẹn	1	0
+trống không	0	1
+trong lành	1	0
+trong ra	1	0
+trong suốt	1	0
+trọng tài	0	0
+trong trắng	1	0
+trong trẻo	1	0
+trong tương lai	0	0
+trong vắt	1	0
+trong veo	1	0
+trọng yếu	0	0
+trừ	0	1
+trứ danh	1	0
+trừng phạt	0	1
+trường chuyên nghiệp	1	0
+truy tìm	1	0
+truyền bá	1	0
+truyền cảm hứng	1	0
+tư bản	1	0
+tự cao	0	1
+từ chối	0	1
+tự cuồng	0	1
+tự huyễn hoặc	0	1
+tự kiêu	0	1
+tự mãn	0	1
+tự mê	0	1
+tự nguyện	0	0
+tự phụ	0	1
+tự sướng	0	1
+từ từ	0	0
+tù túng	0	1
+từ vựng	1	0
+tuân theo	1	0
+từng li từng tí	0	0
+tương hợp	1	0
+tuỳ hứng	0	0
+tuyên bố	1	0
+tuyệt đối	1	0
+ủ ê	0	0
+u nang	0	0
+ung dung	1	0
+ủng hộ	1	0
+uốn nắn	1	0
+uống thuốc	0	0
+ướt	0	1
+ướt át	0	1
+Ưu điểm	1	0
+uy nghi	1	0
+uy quyền	1	0
+ủy quyền	1	0
+uy thế	1	0
+uyên bác	1	0
+uyên thâm	1	0
+vắc-xin	1	0
+văn hoá	1	0
+vạn năng	1	0
+vang lại	0	0
+vật để lại	0	0
+vắt mũi đút miệng	0	1
+vất vả	0	1
+vênh vang	1	0
+vĩ cuồng	0	1
+vi phân	0	0
+vị tha	1	0
+việc chán ngắt	0	1
+viện trợ	1	0
+viển vông	0	1
+vỡ	0	1
+vô bổ	0	1
+vô cảm	0	1
+vô căn cứ	0	1
+vô danh	0	1
+vô dụng	0	1
+vô hình	0	1
+vô học	0	1
+vô ích	1	0
+vô lo vô nghĩ	1	0
+vô lương	0	1
+vô lý	0	1
+vô song	1	0
+vô thưởng vô phạt	1	0
+vô tổ chức	0	1
+vô tội	1	0
+vô tư lự	0	0
+vô ý	0	1
+vô ý thức	0	0
+vội vàng	0	1
+vòng vo	0	1
+vũ lực	0	0
+vu vơ	0	1
+vừa hơn	1	0
+vừa lòng	1	0
+vừa phải	1	0
+vừa rồi	0	1
+vui tính	1	0
+vụn vặt	0	1
+vụng	0	1
+vững	1	0
+vững chãi	1	0
+vũng lầy	0	1
+vững lòng	1	0
+vượt	1	0
+vượt lên	1	0
+vượt lên hẳn	1	0
+vứt bỏ	0	1
+xa lắc	0	0
+xa lắc lơ	0	0
+xa lắc xa lơ	0	0
+xa rời	0	1
+xa rời sự thật	0	0
+xa tắp	0	0
+xa tít	0	0
+xa tít tắp	0	0
+xa tít xa tắp	0	0
+xá tội	1	0
+xa xôi	0	1
+xác định	1	0
+xác thịt	0	1
+xấc xược	0	1
+xâm chiếm	0	1
+xảo quyệt	0	1
+xấu nhất	0	1
+xảy đến	0	1
+xây dựng	1	0
+xe thiết giáp	0	0
+xem lại	1	0
+xiềng xích	0	1
+xiêu lòng	1	0
+xoa dịu	1	0
+xộc xệch	0	1
+xong	1	0
+xù xì	0	1
+xui xẻo	0	1
+xung khắc	0	1
+xuyên qua	1	0
+ý nghĩa	1	0
+ý thức	1	0
+yên tâm	0	0
+yếu	0	1
+yếu bóng vía	0	0
+yêu đời	0	0
+yếu hèn	0	1
+yêu kiều	1	0
+yếu ớt	0	1
+yêu sách	0	1
