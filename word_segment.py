@@ -1,4 +1,4 @@
-from pyvi.pyvi import ViTokenizer, ViPosTagger
+from pyvi import ViTokenizer, ViPosTagger
 #from polyglot.text import Text
 from collections import Counter, OrderedDict
 #import warnings
